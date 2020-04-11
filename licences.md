@@ -1,9 +1,9 @@
 ---
-layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-bigimg: /img/installation-prototype-V0.jpeg
-tags: [books, test]
+layout: page
+title: Licences
+subtitle: What are the rule of the game !
+bigimg: /img/flickr_opencollaborationpatent_psd.jpg
+tags: [licences]
 ---
 
 Pour l'instant, l'idée du choix des licences est orienté par une envie de rendre libre, vraiment libre les connaissances et les livrables produits par le collectif. En conséquence, et pour l'instant, voici les premiers choix (à discuter plus en détails) :
