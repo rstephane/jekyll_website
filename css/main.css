@@ -4,7 +4,8 @@ layout: null
 
 @import url("pygment_highlights.css");
 @import url(fontawesome-all.min.css);
-@import url("https://fonts.googleapis.com/
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,400italic,600italic|Roboto+Slab:400,700");
+
 
 /* --- General --- */
 
@@ -796,7 +797,6 @@ pre {
 
 /* -------------------------------------------- */
 
-css?family=Open+Sans:400,600,400italic,600italic|Roboto+Slab:400,700");
 /*
 	Editorial by HTML5 UP
 	html5up.net | @ajlkn
