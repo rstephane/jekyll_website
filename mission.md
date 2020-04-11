@@ -2,7 +2,7 @@
 layout: page
 title: Mission
 subtitle: What is our vision, our goals
-bigimg: /img/flickr_opencollaborationpatent_psd.png
+bigimg: /img/creative_flickr_horiavarlan.jpg
 tags: [goals]
 ---
 
