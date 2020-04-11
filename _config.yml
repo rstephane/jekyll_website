@@ -20,14 +20,11 @@ description: DIY Ventilator
 
 # List of links in the navigation bar
 navbar-links:
-  Objectifs : "mission"
+  Mission : "mission"
+  History : "history"
   News: "news"
-  Community:
-    - Core Team: "core team"
-    - Members at large: "community"
-    - How to contribute: "contribute"
-    - How to communicate: "communication"
   The Project:
+    - History : "history"
     - Organisation: "http://www.markdowntutorial.com/"
     - Schémas: "http://www.markdowntutorial.com/"
     - Méchanique: "mechanique"
@@ -35,11 +32,14 @@ navbar-links:
     - Pneumatique: "pneumatique"
     - Controlleur : "controlleur"
     - IHM : "controlleur"
+  Community:
+    - Core Team: "core team"
+    - Members at large: "community"
+    - How to contribute: "contribute"
+    - How to communicate: "communication"
   Download: "download"
   Licences: "licences"
   Contacts: "contacts"
-
-
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -62,7 +62,7 @@ link-col: "#008AFF"
 hover-col: "#FF4452"
 footer-col: "#F5F5F5"
 footer-text-col: "#777777"
-footer-link-col: "#FF4452"
+footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
