@@ -2,7 +2,7 @@
 layout: page
 title: Contacts
 subtitle:
-bigimg: /img/RCIM NEOOFFICE2.png
+bigimg: /img/MICROSOFTADS.png
 tags: [contacts]
 ---
 
