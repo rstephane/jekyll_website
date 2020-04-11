@@ -1,31 +1,27 @@
 ---
 layout: page
-title: Licences
-subtitle: What are the rule of the game !
+title: Mission
+subtitle: What is our vision, our goals
 bigimg: /img/flickr_opencollaborationpatent_psd.png
-tags: [licences]
+tags: [goals]
 ---
 
-Pour l'instant, l'idée du choix des licences est orienté par une envie de rendre libre, vraiment libre les connaissances et les livrables produits par le collectif. En conséquence, et pour l'instant, voici les premiers choix (à discuter plus en détails) :
+# Notre objectif ?
 
-# Pour les codes informatiques
-Le choix s'oriente vers une licence permissive (intégrable plus facilement dans d'autres structure de code, etc.). **Le choix actuel est MIT.**  
+Avec le pic épidémique, les hôpitaux risquent de manquer de respirateurs (machines de Ventilation Assistée Controlée).
 
-# Plans, dessins CAO, documentations, videos, audios, design hardware, etc.
-La licence **Creative Commons** est à privilégié: **CC-BY-SA 4.0**
+* Nous souhaitons proposer une **solution open-source & open hardware** pour fabriquer des machines de VAC d’urgence.
 
-Sachez que la creative common n'intégre pas de clause de non responsabilité, nous rappelons donc :
+L’idée est de partir des respirateurs manuels et de produire une solution pour les mécaniser avec un bras mécanique et de l’électronique.
 
-* Les informations et livrables mis sur ce site sont publiés sans aucune garantie, les auteurs du site ainsi que les contributeurs ne peuvent être tenus responsables de l'utilisation de ces données en cas d'accident,etc.
+**Le service de réanimation du CHU Grenoble nous aide à valider le prototype, et, l'entreprise Min Max Medical contribue au projet en concevant collaborativement la version 2 du prototype**
 
+Les premiers prototypes devraient être prêts vers le début de la semaine prochaine, pour des tests sur poumon artificiel débutant immédiatement après. L’utilisation en hôpital pourrait commencer vers la fin de la semaine du 30 mars, début avril.
 
-# Contributions extérieures
-Toutes les bonnes volontés et contributions sont les bienvenus :)
+Ce projet est une course contre la montre, et nous avons besoin d’aide.
 
-Pour ceux qui apporterait du code (ou design, plan, etc.) dèjà écrit. Il faut absolument que l'on puisse être compatible (exemple: licence permissive vs licences copyleft fort, MIT vs GPL, etc.). Si vous ne pouvez pas ou ne voulez pas changer la licence de votre code actuel, contacter les auteurs du site (stan), pour voir la meilleure façon de faire (afin de gérer au mieux les droits sur ces codes et permettre leur utilisation dans le cadre du projet RECOVID).
+# Our goal ?
 
-# Quelques recommandations
+Develop an open source VAC with all contributions being under BSD/MIT/CC license allowing other to copy, replicate, derive similar VACs. We try selecting components that are either readily available in hospitals or in FabLabs, to make it as easy as possible to replicate the design. The design is driven by requirements provided by emergency professionals, and aim to make the usage of the device easy and familiar for them.
 
-* Soyez vigilants sur les éventuelles pièces copiées,
-* N'hésitez pas à nous communiquer votre avancement,
-* Si vous avez un doute merci de nous le signaler que l'on puisse éventuellement vérifier des problèmes de contrefaçon et gérer cela avec les entreprises et communautés concernées.
+We hope that if our design is successful, it will be replicated by others.
