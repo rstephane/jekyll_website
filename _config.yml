@@ -22,25 +22,19 @@ description: DIY Ventilator
 navbar-links:
   Team: "team"
   News: "news"
-  Spécifications:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Schémas:
-    - Schéma général: "schema"
-    - Schéma xxxx: "schéma"
-  Méchanique:
-    - Schéma général: "schema"
-    - Schéma xxxx: "schéma"
-  Eléctronique:
-    - Schéma général: "schema"
-    - Schéma xxxx: "schéma"
-  Pneumatique:
-    - Schéma général: "schema"
-    - Schéma xxxx: "schéma"
-  Controlleur:
-    - Schéma général: "schema"
-    - Schéma xxxx: "schéma"
+  The Project:
+    - Objectifs: "http://deanattali.com/beautiful-jekyll/"
+    - Schémas: "http://www.markdowntutorial.com/"
+    - Méchanique: "mechanique"
+    - Eléctronique: "electronique"
+    - Pneumatique: "pneumatique"
+    - Controlleur : "controlleur"
+    - IHM : "controlleur"
+  Communication: "communication"
   Download: "download"
+  Community:
+    - Members: "members"
+    - How to contribute: "contribute"
   Licences: "licences"
 
 
