@@ -20,10 +20,14 @@ description: DIY Ventilator
 
 # List of links in the navigation bar
 navbar-links:
-  Mission & Organisation: "mission organisation"
+  Objectifs : "mission"
   News: "news"
+  Community:
+    - Core Team: "core team"
+    - Members at large: "community"
+    - How to contribute: "contribute"
   The Project:
-    - Objectifs: "http://deanattali.com/beautiful-jekyll/"
+    - Organisation: "http://www.markdowntutorial.com/"
     - Schémas: "http://www.markdowntutorial.com/"
     - Méchanique: "mechanique"
     - Eléctronique: "electronique"
@@ -32,10 +36,6 @@ navbar-links:
     - IHM : "controlleur"
   Communication: "communication"
   Download: "download"
-  Community:
-    - Core Team: "core team"
-    - Members at large: "community"
-    - How to contribute: "contribute"
   Licences: "licences"
 
 
