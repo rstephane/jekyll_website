@@ -20,7 +20,7 @@ description: DIY Ventilator
 
 # List of links in the navigation bar
 navbar-links:
-  Team: "team"
+  Mission & Organisation: "mission organisation"
   News: "news"
   The Project:
     - Objectifs: "http://deanattali.com/beautiful-jekyll/"
@@ -33,7 +33,8 @@ navbar-links:
   Communication: "communication"
   Download: "download"
   Community:
-    - Members: "members"
+    - Core Team: "core team"
+    - Members at large: "community"
     - How to contribute: "contribute"
   Licences: "licences"
 
@@ -49,22 +50,23 @@ avatar: "/img/logo_recovid.png"
 # --- Background colour/image options --- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
+# 265, 68, 82
 
 navbar-col: "#F5F5F5"
-navbar-text-col: "#404040"
+navbar-text-col: "#FF4452"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
-link-col: "#008AFF"
-hover-col: "#0085A1"
+link-col: "#FF4452"
+hover-col: "#FF4452"
 footer-col: "#F5F5F5"
 footer-text-col: "#777777"
-footer-link-col: "#404040"
+footer-link-col: "#FF4452"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
 # navbar-img: "/img/bgimage.png"
-# footer-img: "/img/bgimage.png"
+footer-img: "/img/bgimage.png"
 # page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
@@ -72,7 +74,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: RECOVID Community
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -80,10 +82,9 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "recovid@example.com"
+  github: recovid
+  twitter: recovid
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -100,7 +101,6 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
   linkedin: true
 
 # How to display the link to the website in the footer
