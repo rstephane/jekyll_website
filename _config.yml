@@ -18,6 +18,7 @@ description: DIY Ventilator
 
 url: "https://rstephane.github.io"
 baseurl: "/jekyll_website"
+paginate_path: "/blog/page:num/"
 
 # --- Navigation bar options --- #
 
