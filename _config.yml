@@ -29,7 +29,7 @@ navbar-links:
   News: "blog"
   The Project:
     - History : "history"
-    - Organisation: "http://www.markdowntutorial.com/"
+    - Organisation: "project/project"
     - Schémas: "http://www.markdowntutorial.com/"
     - Méchanique: "mechanique"
     - Eléctronique: "electronique"
