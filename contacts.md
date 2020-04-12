@@ -2,7 +2,7 @@
 layout: page
 title: Contacts
 subtitle:
-bigimg: /img/MICROSOFTADS.png
+bigimg: /img/MICROSOFTADS.jpeg
 tags: [contacts]
 ---
 

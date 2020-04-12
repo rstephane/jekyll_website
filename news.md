@@ -3,7 +3,7 @@ layout: page
 title: Actualités
 subtitle: testmd
 use-site-title: false
-bigimg: /img/Mainstream-media.jpeg
+bigimg: /img/Mainstream-media.jpg
 ---
 
 <div class="posts-list">

@@ -22,7 +22,7 @@ description: DIY Ventilator
 navbar-links:
   Mission : "mission"
   History : "history"
-  News: "https://rstephane.github.io/jekyll_website/news.html"
+  News: "news.html"
   The Project:
     - History : "history"
     - Organisation: "http://www.markdowntutorial.com/"
