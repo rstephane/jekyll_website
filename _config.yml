@@ -16,7 +16,7 @@ description: DIY Ventilator
 # baseurl should be an empty string
 #baseurl: ""
 
-url: "https://rstephane.github.io/jekyll_website"
+url: "https://rstephane.github.io"
 baseurl: "/jekyll_website"
 
 # --- Navigation bar options --- #
