@@ -36,7 +36,7 @@ navbar-links:
     - Core Team: "core team"
     - Members & Partners: "community"
     - How to contribute: "contribute"
-    - How to communicate: "communication"
+    - Forum: "communication"
   Download: "download"
   Licences: "licences"
   Contacts: "contacts"
@@ -167,7 +167,7 @@ date_format: "%B %-d, %Y"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Europe/Paris"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
