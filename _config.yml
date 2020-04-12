@@ -22,7 +22,7 @@ description: DIY Ventilator
 navbar-links:
   Mission : "mission"
   History : "history"
-  News: "news.html"
+  News: "news"
   The Project:
     - History : "history"
     - Organisation: "http://www.markdowntutorial.com/"

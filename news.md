@@ -1,10 +1,10 @@
----
-layout: page
-title: Actualités
-subtitle: testmd
-use-site-title: false
-bigimg: /img/Mainstream-media.jpg
----
+<!DOCTYPE html>
+<html lang="en">
+  <!-- Beautiful Jekyll | MIT license | Copyright Dean Attali 2016 -->
+  {% include head.html %}
+
+  <body>
+
 
 <div class="posts-list">
   {% for post in paginator.posts %}
@@ -71,3 +71,7 @@ bigimg: /img/Mainstream-media.jpg
   {% endif %}
 </ul>
 {% endif %}
+
+
+</body>
+</html>
