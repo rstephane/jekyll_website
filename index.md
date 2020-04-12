@@ -92,63 +92,6 @@ Adrien est entré en contact avec le centre de crise sanitaire du ministère de 
 ## Approvisionnement
 * Pour 100 équipements, il faut **commander les composants des lundi 30 mars.**
 
-## Moteurs
-
-* Commande de pièces au plus vite. Un premier prototype est quasi terminé (V1) et validera le concept pour continuer et aller vers une version productible (V2).
-
-## Alimentation
-* On prend une pièce sur le marché pour être plus proche des normes.
-
-## Batterie
-
-* Batterie électroportatif intermittente : pour déplacement patient.
-* La batterie sera prise des systèmes venant du bricolage (magasin de bricolage). 10' d'autonomie.
-* Sur l'équipement final, on va mettre un emplacement pour encastrer la batterie, cela simplifie la conception tout en garantissant un niveau de qualité élevé.
-
-## Vannes PEP
-
-* MMM va proposer des vannes (pour être proche des normes) mais leurs propositions sera discuter avec le reste du groupe.
-* Ludovic continue de réfléchir à cette problématique.
-* Contrôle PEP. Stan continue de réfléchir de son coté aussi.
-
-Il ne faut pas s'arrêter.
-
-## Sensor, capteur de pression
-* Capteur identifié. on continue, on commande.
-
-## Capteur FIO2
-
-* Non obligatoire.
-* Il peut être gérer de manière approximative : le personnel ouvre les vannes et taux oxygène dans le sang vérifié par un autre équipement. On peut donc faire autrement, mais c’est pas mal s’il y en a une :)
-
-## Firmware
-
-* MMM commence un développement en C++ (sans Arduino) pour être plus proche des normes requises par les autorités de certification.
-* Le travail sur les cartes Arduino continue. On souhaite proposer un plan B, voir une redondance dans la solution final proposé (implémentation secondaire, indépendante, qui suit les mêmes consignes et en cas de défaillance de la carte électronique principale, la solution Arduino prendrait le relai, on augmente le taux de disponibilité de la solution et on réduit le risque d'arrêt).
-
-## IHM
-
-  * Travail terminé,
-  * Test Users a planifier et faire.
-
-## Carte et câbles de connexions
-
-  * MMM se charge de cette partie.
-  * Connexion/carte connexion : assemblage dans les locaux MMM.
-
-## Risques
-
-* L'analyse de risque est à revoir en conséquence.
-* MMM est responsable de cette activité.
-
-# Budget
-
-* 1 équipement = 1000 euros environ,
-* 100 équipements = 100ke environ.
-
-INRIA évalue si l'institut peut payer une partie du budget requit.
-Un appel à proposition est en cours d'écriture et sera soumis à la DGA (qui pourrait financer le projet). A suivre :)
-
 # Glossaire
 
 * ARISK: Analyse des risques.
