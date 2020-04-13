@@ -28,8 +28,7 @@ navbar-links:
   History : "history"
   News: "blog"
   The Project:
-    - History : "history"
-    - Organisation: "project/project"
+    - Getting Started : "startinguide"
     - Schémas: "http://www.markdowntutorial.com/"
     - Méchanique: "mechanique"
     - Eléctronique: "electronique"
@@ -37,6 +36,7 @@ navbar-links:
     - Controlleur : "controlleur"
     - IHM : "controlleur"
   Community:
+    - Organisation: "project/project"
     - Core Team: "core team"
     - Members & Partners: "community"
     - Collaboration Guidelines: "contribute"
