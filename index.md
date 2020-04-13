@@ -101,6 +101,14 @@ Adrien est entré en contact avec le centre de crise sanitaire du ministère de 
 
 # Fin
 
+<div class="tab-content">
+    <div id="short-tutorial" class="tab-pane fade in active">
+      <iframe src="https://www.youtube.com/embed/FYPd5W75HPE" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <div id="long-tutorial" class="tab-pane fade">
+      <iframe src="https://www.youtube.com/embed/fPY13maWKKE" frameborder="0" allowfullscreen></iframe>  </div>
+  </div>
+
 
 <div class="posts-list">
   {% for post in paginator.posts %}
