@@ -24,7 +24,6 @@ paginate_path: "/blog/page:num/"
 
 # List of links in the navigation bar
 navbar-links:
-  Mission : "mission"
   History : "history"
   News: "blog"
   The Project:
