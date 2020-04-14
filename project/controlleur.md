@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Starting guide
+title: Controlleur
 subtitle: xxxxxxx
 bigimg: /img/Tree.png
 tags: [project]

@@ -1,15 +1,13 @@
 ---
 layout: page
-title: Project
-subtitle: What is about ...
-bigimg: /img/creative_flickr_horiavarlan.jpg
+title: The team
+subtitle: xxxxxxx
+bigimg: /img/Tree.png
 tags: [project]
 ---
 
-# Notre projet ?
+> updated on the xx xx 2020
 
-Avec le pic épidémique, les hôpitaux risquent de manquer de respirateurs (machines de Ventilation Assistée Controlée).
+# section title
 
-* Nous souhaitons proposer une **solution open-source & open hardware** pour fabriquer des machines de VAC d’urgence.
-
-L’idée est de partir des respirateurs manuels et de produire une solution pour les mécaniser avec un bras mécanique et de l’électronique.
+Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing lorem ipsum dolor sit amet nullam veroeros adipiscing.
