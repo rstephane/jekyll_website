@@ -27,7 +27,7 @@ navbar-links:
   History : "history"
   News: "blog"
   The Project:
-    - Getting Started : "project/startinguide"
+    - Getting Started : "project/startingguide"
     - Schémas: "project/schemas"
     - Méchanique: "project/mechanique"
     - Eléctronique: "project/electronique"
