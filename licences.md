@@ -6,18 +6,40 @@ bigimg: /img/flickr_opencollaborationpatent_psd.jpg
 tags: [licences]
 ---
 
-Pour l'instant, l'idée du choix des licences est orienté par une envie de rendre libre, vraiment libre les connaissances et les livrables produits par le collectif. En conséquence, et pour l'instant, voici les premiers choix (à discuter plus en détails) :
+L'idée du choix des licences est orienté par une envie de rendre libre, vraiment libre les connaissances et les livrables produits par le collectif. En conséquence :
 
-# Pour les codes informatiques
+# Codes informatiques
 Le choix s'oriente vers une licence permissive (intégrable plus facilement dans d'autres structure de code, etc.). **Le choix actuel est MIT.**  
 
-# Plans, dessins CAO, documentations, videos, audios, design hardware, etc.
-La licence **Creative Commons** est à privilégié: **CC-BY-SA 4.0**
+~~~
+MIT License
 
-Sachez que la creative common n'intégre pas de clause de non responsabilité, nous rappelons donc :
+Copyright (c) [year] [fullname]
 
-* Les informations et livrables mis sur ce site sont publiés sans aucune garantie, les auteurs du site ainsi que les contributeurs ne peuvent être tenus responsables de l'utilisation de ces données en cas d'accident,etc.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+~~~
+
+# Plans, dessins CAO, documentations, videos, audios, design hardware.
+La licence **Creative Commons** est la licence privilégié: [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr)
+
+# Documents QARA (pour certification)
+Une licence ouverte spécifique est en cours d'écriture (basé sur une licence ouverte dèjà existante, USA, orienté COVID-19). Plus d'information sous peu.
 
 # Contributions extérieures
 Toutes les bonnes volontés et contributions sont les bienvenus :)
@@ -29,3 +51,14 @@ Pour ceux qui apporterait du code (ou design, plan, etc.) dèjà écrit. Il faut
 * Soyez vigilants sur les éventuelles pièces copiées,
 * N'hésitez pas à nous communiquer votre avancement,
 * Si vous avez un doute merci de nous le signaler que l'on puisse éventuellement vérifier des problèmes de contrefaçon et gérer cela avec les entreprises et communautés concernées.
+
+# Licence website
+Ce site est hébergé par github.com (gh-pages) et basé sur le framework [Beautiful Jekyll / Dean AttaliLa](https://github.com/daattali/beautiful-jekyll#readme).
+
+Ce framework permet de créer un site static, simple et ergonomique. Les pages et articles sont écrites en [MARKDOWN](https://markdowntutorial.com/), facile à écrire et mettre à jour.
+
+**La licence du thème reste à l'identique : MIT**.
+
+# Last but not least / Disclaimer
+
+Nous rappellons que les informations et livrables mis sur ce site sont publiés sans aucune garantie, les auteurs du site ainsi que les contributeurs ne peuvent être tenus responsables de l'utilisation de ces données en cas d'accident,etc.
