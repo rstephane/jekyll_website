@@ -18,11 +18,11 @@ Avec le pic épidémique, les hôpitaux risquent de manquer de respirateurs (mac
 
 L’idée est de partir des respirateurs manuels et de produire une solution pour les mécaniser avec un bras mécanique et de l’électronique.
 
-**Le service de réanimation du CHU Grenoble nous aide à valider le prototype, et, une entreprise de la région Auvergne-Rhones-Alpes contribue au projet en concevant une version certifié et produire une première série conséquente pour le CHU.**
-
 * Nous souhaitons proposer une **solution open-source & open hardware** pour fabriquer des machines de VAC d’urgence.
 
-En donnant les codes sources et les schémas aux fablabs et Maker de France, nous serions en capacité de refaire d'autres pièces et équipements.
+* En donnant les codes sources et les schémas aux fablabs et Maker de France, nous serions en capacité de refaire d'autres pièces et équipements.
+
+**Le service de réanimation du CHU Grenoble nous aide à valider le prototype, et, une entreprise de la région Auvergne-Rhones-Alpes contribue au projet en concevant une version certifié et produire une première série conséquente pour le CHU.**
 
 # Contexte et besoin
 
@@ -44,7 +44,12 @@ L'Open source et l'Open Hardware permet de faciliter l'accès et la fabrication 
 
 De même, les licences choisies (MIT et CC) permettent à une entreprise de la région Auvergne-Rhones-Alpes de nous aider en concevant une version certifié (V2) et produire une première série.
 
-- Le fabriquant <unknown>, en acceptant de contribuer activement au projet, permet de poursuivre un chemin qui n'est pas habituelle: on va allier un **design collaboratif et open source** avec une **production qui requiert étude clinique, standardisation de la fabrication**, selon les normes requiert par le meilleur de la santé, afin d'obtenir un produit certifié (méthodologies ARISK, QARA, 60601). L'entreprise adhère au principe de partage et de diffusion que nous nous sommes fixés, et le projet reste open source / open hardware avec les mêmes licences.
+Le fabriquant <unknown>, en acceptant de contribuer activement au projet, permet de poursuivre un chemin qui n'est pas habituelle:
+
+* Allier un **design collaboratif et open source** avec une **production qui requiert étude clinique, standardisation de la fabrication**, selon les normes requiert par le meilleur de la santé,
+* Obtenir un produit certifié (méthodologies ARISK, QARA, 60601).
+
+L'entreprise adhère au principe de partage et de diffusion que nous nous sommes fixés, et le projet reste open source / open hardware avec les mêmes licences.
 
 # Key Research Question
 
