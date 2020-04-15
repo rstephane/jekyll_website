@@ -31,6 +31,7 @@ navbar-links:
     - Schémas: "project/schemas"
     - Méchanique: "project/mechanique"
     - Eléctronique: "project/electronique"
+    - Alimentation: "project/alimentation"
     - Pneumatique: "project/pneumatique"
     - Controlleur : "project/controlleur"
     - IHM : "project/ihm"
