@@ -25,12 +25,14 @@ h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
 }
+
+
+/* rstephane: change the color :( */
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
     font-family: inherit;
     font-weight: 500;
-    line-height: 1.1;
-    background-color: black;
-    color: #FF4452;
+    background-color: #FF4452;
+    color: white;
 }
 
 a {
