@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Download
-subtitle: xxxxx
 bigimg: /img/flickr_opencollaborationpatent_psd.jpg
 tags: [download]
 ---

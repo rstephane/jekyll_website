@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Licences
-subtitle: What are the rule of the game !
 bigimg: /img/flickr_opencollaborationpatent_psd.jpg
 tags: [licences]
 ---

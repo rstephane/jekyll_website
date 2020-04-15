@@ -1,7 +1,6 @@
 ---
 layout: page
 title: History
-subtitle: The big bang explain!
 bigimg: /img/flickr_fablab_marcwathieu.jpg
 tags: [history]
 ---
