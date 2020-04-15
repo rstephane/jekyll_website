@@ -26,15 +26,6 @@ h1,h2,h3,h4,h5,h6 {
   font-weight: 800;
 }
 
-
-/* rstephane: change the color :( */
-.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
-    font-family: inherit;
-    font-weight: 500;
-    background-color: #FF4452;
-    color: white;
-}
-
 a {
   color: {{ site.link-col }};
 }
