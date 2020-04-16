@@ -6,11 +6,17 @@ bigimg: /img/creative_flickr_horiavarlan.jpg
 tags: [project]
 ---
 
-## <Domain, exemple coordination, appro, etc>
+> All the people listed in this page contributed on the project at different level, there are important for us !
 
-| Nom | Rôle  Expertise | Photo |
-| :------ |:--- | :--- |
-| Stephane R | plein de compétences | ![](assets/index-0bd83ccc.JPG) |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+## The community at large !
+
+| Nom | Organisme | Rôle  Expertise | Photo |
+| :------ |:--- | :--- |:--- |
+| xxxx  | xxxx  | xxxx  | xxxx  |
+
+
+## Partners that count for us !
+
+| Nom | Organisme | Rôle  Expertise | Photo |
+| :------ |:--- | :--- |:--- |
+| xxxx  | xxxx  | xxxx  | xxxx  |
