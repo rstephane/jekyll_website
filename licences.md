@@ -58,6 +58,10 @@ Ce framework permet de créer un site static, simple et ergonomique. Les pages e
 
 **La licence du thème reste à l'identique : MIT**.
 
+## Logo Recovid
+
+Le Logo a été créé par ``Laurence Boissieux``, Ingénieur Inria, Research Software, la licence est [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr).
+
 # Last but not least / Disclaimer
 
 Nous rappellons que les informations et livrables mis sur ce site sont publiés sans aucune garantie, les auteurs du site ainsi que les contributeurs ne peuvent être tenus responsables de l'utilisation de ces données en cas d'accident,etc.
