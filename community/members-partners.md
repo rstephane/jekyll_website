@@ -13,10 +13,12 @@ tags: [project]
 | Nom | Organisme | Rôle  Expertise | Photo |
 | :------ |:--- | :--- |:--- |
 | xxxx  | xxxx  | xxxx  | xxxx  |
+| xxxx  | xxxx  | xxxx  | xxxx  |
 
 
 ## Partners that count for us !
 
 | Nom | Organisme | Rôle  Expertise | Photo |
 | :------ |:--- | :--- |:--- |
+| xxxx  | xxxx  | xxxx  | xxxx  |
 | xxxx  | xxxx  | xxxx  | xxxx  |

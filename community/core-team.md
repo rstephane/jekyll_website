@@ -21,11 +21,13 @@ tags: [project]
 | Nom | Organisme | Rôle  Expertise | Photo |
 | :------ |:--- | :--- |:--- |
 | xxxx  | xxxx  | xxxx  | xxxx  |
+| xxxx  | xxxx  | xxxx  | xxxx  |
 
 ## Méchanique et Moteurs
 
 | Nom | Organisme | Rôle  Expertise | Photo |
 | :------ |:--- | :--- |:--- |
+| xxxx  | xxxx  | xxxx  | xxxx  |
 | xxxx  | xxxx  | xxxx  | xxxx  |
 
 ## Alimentation électrique
@@ -33,11 +35,13 @@ tags: [project]
 | Nom | Organisme | Rôle  Expertise | Photo |
 | :------ |:--- | :--- |:--- |
 | xxxx  | xxxx  | xxxx  | xxxx  |
+| xxxx  | xxxx  | xxxx  | xxxx  |
 
 ## Pneumatique
 
 | Nom | Organisme | Rôle  Expertise | Photo |
 | :------ |:--- | :--- |:--- |
+| xxxx  | xxxx  | xxxx  | xxxx  |
 | xxxx  | xxxx  | xxxx  | xxxx  |
 
 
@@ -46,11 +50,13 @@ tags: [project]
 | Nom | Organisme | Rôle  Expertise | Photo |
 | :------ |:--- | :--- |:--- |
 | xxxx  | xxxx  | xxxx  | xxxx  |
+| xxxx  | xxxx  | xxxx  | xxxx  |
 
 ## Contrôleurs, drivers et IHM
 
 | Nom | Organisme | Rôle  Expertise | Photo |
 | :------ |:--- | :--- |:--- |
+| xxxx  | xxxx  | xxxx  | xxxx  |
 | xxxx  | xxxx  | xxxx  | xxxx  |
 
 ## Documents QARA
@@ -58,11 +64,13 @@ tags: [project]
 | Nom | Organisme | Rôle  Expertise | Photo |
 | :------ |:--- | :--- |:--- |
 | xxxx  | xxxx  | xxxx  | xxxx  |
+| xxxx  | xxxx  | xxxx  | xxxx  |
 
 ## Tests et essais
 
 | Nom | Organisme | Rôle  Expertise | Photo |
 | :------ |:--- | :--- |:--- |
+| xxxx  | xxxx  | xxxx  | xxxx  |
 | xxxx  | xxxx  | xxxx  | xxxx  |
 
 ## Production
@@ -70,9 +78,11 @@ tags: [project]
 | Nom | Organisme | Rôle  Expertise | Photo |
 | :------ |:--- | :--- |:--- |
 | xxxx  | xxxx  | xxxx  | xxxx  |
+| xxxx  | xxxx  | xxxx  | xxxx  |
 
 ## Validation clinique
 
 | Nom | Organisme | Rôle  Expertise | Photo |
 | :------ |:--- | :--- |:--- |
+| xxxx  | xxxx  | xxxx  | xxxx  |
 | xxxx  | xxxx  | xxxx  | xxxx  |
