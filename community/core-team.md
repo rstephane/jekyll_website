@@ -14,7 +14,7 @@ tags: [project]
 | :------ |:--- | :--- |:--- |
 | Adrien Farrugia | CEO & founder SteadXP | Conception / industrialisation / déploiement international de solutions Hardware /Software | |
 | Stan Borkowski | Ingénieur Inria | Chef de projet, PhD |   |
-| Stephane R | Ingénieur Inria | Community management, FLOSS, AGILE Methods | ![](https://rstephane.github.io/jekyll_website/img/imgteam/logo_recovid.png) |
+| Stephane R | Ingénieur Inria | Community management, FLOSS, AGILE Methods | ![](https://rstephane.github.io/jekyll_website/img/imgteam/logo_recovid_100x100.png) |
 
 ## Admin et Approvisionnement
 
