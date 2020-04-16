@@ -8,8 +8,10 @@ tags: [project]
 
 # Notre projet ?
 
-Avec le pic épidémique, les hôpitaux risquent de manquer de respirateurs (machines de Ventilation Assistée Controlée).
-
-* Nous souhaitons proposer une **solution open-source & open hardware** pour fabriquer des machines de VAC d’urgence.
-
-L’idée est de partir des respirateurs manuels et de produire une solution pour les mécaniser avec un bras mécanique et de l’électronique.
+## <Domain, exemple coordination, appro, etc>
+| Nom | Rôle / Expertise | Photo |
+| :------ |:--- | :--- |
+| Stephane R | plein de compétences | ![](assets/index-0bd83ccc.JPG) |
+| Ten | Eleven | Nine |
+| Seven | Eight | Six |
+| Two | Three | One |
