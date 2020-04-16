@@ -28,6 +28,7 @@ navbar-links:
   News: "blog"
   The Project:
     - Getting Started : "project/startingguide"
+    - Cahier des charges: "project/specifications"
     - Schémas: "project/schemas"
     - Méchanique: "project/mechanique"
     - Eléctronique: "project/electronique"
