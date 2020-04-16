@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project
+title: Members
 subtitle: What is about ...
 bigimg: /img/creative_flickr_horiavarlan.jpg
 tags: [project]
