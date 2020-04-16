@@ -59,7 +59,7 @@ tags: [project]
 | xxxx  | xxxx  | xxxx  | xxxx  |
 | xxxx  | xxxx  | xxxx  | xxxx  |
 
-## Documents QARA
+## Documents QARA (Dossier technique & qualité règlementaire)
 
 | Nom | Organisme | Rôle  Expertise | Photo |
 | :------ |:--- | :--- |:--- |
