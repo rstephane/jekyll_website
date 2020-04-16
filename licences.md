@@ -8,7 +8,7 @@ tags: [licences]
 L'idée du choix des licences est orienté par une envie de rendre libre, vraiment libre les connaissances et les livrables produits par le collectif. En conséquence :
 
 # Codes informatiques
-Le choix s'oriente vers une licence permissive (intégrable plus facilement dans d'autres structure de code, etc.). **Le choix actuel est MIT.**  
+Le choix s'oriente vers une licence permissive (intégrable plus facilement dans d'autres structure de code, etc.). **Le choix est MIT.**  
 
 ~~~
 MIT License
@@ -35,7 +35,7 @@ SOFTWARE.
 ~~~
 
 # Plans, dessins CAO, documentations, videos, audios, design hardware.
-La licence **Creative Commons** est la licence privilégié: [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr)
+La licence **Creative Commons** est la licence retenue, plus précisément : [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr)
 
 # Documents QARA (pour certification)
 Une licence ouverte spécifique est en cours d'écriture (basé sur une licence ouverte dèjà existante, USA, orienté COVID-19). Plus d'information sous peu.
