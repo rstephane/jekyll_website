@@ -36,6 +36,7 @@ navbar-links:
     - Pneumatique: "project/pneumatique"
     - Controlleur : "project/controlleur"
     - IHM : "project/ihm"
+    - BOM : "project/bill_of_material"
   Community:
     - Organisation: "community/organisation"
     - Core Team: "community/core-team"
