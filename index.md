@@ -47,8 +47,6 @@ Le responsable des Urgences souhaite une production de 100 respirateurs (dans le
 
 > Une communauté et l'Open source comme accélérateur technologique
 
-![](img/opensource.png)
-
 L'Open source et l'Open Hardware permet de faciliter l'accès et la fabrication des composants utiles pour fabriquer des respirateurs.  En donnant les codes sources et les schémas aux fablabs et Maker de France, nous serions en capacité de refaire une centaine de pièces.
 
 De même, les licences choisies (MIT et CC) permettent à une entreprise de la région Auvergne-Rhones-Alpes de nous aider en concevant une version certifié (V2) et produire une première série.
