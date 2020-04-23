@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Download
-bigimg: /img/entete/Tree.png
+bigimg: /img/entete/Tree.jpeg
 tags: [download]
 ---
 
