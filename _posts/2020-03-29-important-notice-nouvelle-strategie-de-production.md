@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Important notice / Changement de stratégie pour la production
-image: /img/open_flicker_opensourceway.png
+image: /img//icons/bars.png
 gh-repo: recovid/documentation
 gh-badge: [star, fork, follow]
 tags: [news]
 ---
 
-- Important à lire -
+> Important à lire
 
 Le projet avance bien dans les différents domaines.
 

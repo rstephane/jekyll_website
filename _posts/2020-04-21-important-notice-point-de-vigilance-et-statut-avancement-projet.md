@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Important Notice / Statut avancement projet
-image: /img/open_flicker_opensourceway.png
+image: /img/icons/rocket.png
 gh-repo: recovid/documentation
 gh-badge: [star, fork, follow]
 tags: [news]
 ---
 
-#
+Voici le compte rendu de notre réunion sur discord, news, et prochaines étapes.
+
 # Collectif Recovid sur Discord
 # News du mardi 21 Avril
 # Recovid: Un projet local pour sauver des vies !
@@ -33,13 +34,16 @@ Dans le deuxième cas (le "non"), le projet ne s'arrête pas :
 
 Une fois ces étapes terminées, nous prendrons la décision...
 
---- Appel  à contribution ---
-Sur le code, une aide de revue de code peut être intéressante? vous connaissez le projet, vous connaissez coder ? vous pouvez aider en regardant le code et en indiquant si il ya des choses qui vous surprenants, etc. passez par le github de RECOVID, hein !
+**Appel  à contribution**
 
---- Prochain point de synchro ? ---
-Nous referons un point sur l'avancé du développement logiciel mercredi soir (en petit groupe). En attendant, l'équipe soft se concentre et ne sont pas "dérangeable" par la communauté, INRIA, MMM, etc. :)
+  - Sur le code, une aide de revue de code peut être intéressante? vous connaissez le projet, vous connaissez coder ? vous pouvez aider en regardant le code et en indiquant si il ya des choses qui vous surprenants, etc. passez par le github de RECOVID, hein !
 
---- Dernier mot ---
-Attendez encore un peu avant de communiquer (passez par Stan, et Christophe Dehan avant).
+**Prochain point de synchro ?**
+
+  - Nous referons un point sur l'avancé du développement logiciel mercredi soir (en petit groupe). En attendant, l'équipe soft se concentre et ne sont pas "dérangeable" par la communauté, INRIA, MMM, etc. :)
+
+** Dernier mot**
+
+- Attendez encore un peu avant de communiquer (passez par Stan, et Christophe Dehan avant).
 
 Merci pour tout ce que vous avez fait & à très vite.

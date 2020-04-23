@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post!
+title: Spécifications & Prototypage
 gh-repo: recovid/documentation
 gh-badge: [star, fork, follow]
 tags: [news]

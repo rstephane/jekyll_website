@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Réalisation d'une première application
-image: /img/open_flicker_opensourceway.png
+image: /img//icons/plane.png
 gh-repo: recovid/documentation
 gh-badge: [star, fork, follow]
 tags: [news]

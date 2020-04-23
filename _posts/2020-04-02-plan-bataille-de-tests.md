@@ -18,3 +18,8 @@ Le projet avance bien malgré de nombreux obstacles, voici un plan de bataille s
 
 - Si résultats tests ok, début essais cliniques ... simples,
 - Si résultats tests nok, on corrige et relance les essais.
+
+Dernière info, nous avons mis à jour le site Github du projet:
+
+- Section documentation / wiki
+- Création de différentes sections (collaboration guidelines, communication, actualités, etc.)

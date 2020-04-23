@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Time Line pour la semaine 12 au 17 Avril
+image: /img//icons/bars.png
 gh-repo: recovid/documentation
 gh-badge: [star, fork, follow]
 tags: [news]

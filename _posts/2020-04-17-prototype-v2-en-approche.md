@@ -6,7 +6,7 @@ gh-badge: [star, fork, follow]
 tags: [news]
 ---
 
-Ce week-end
+Voici ce que l'ensemble des membres du proejt on réalisé ce week-end :
 
 - Equipe soft/IHM/controller : à fond mais tout n’est pas encore implémenté.
 - Elec : 5 boites quasi intégrées,
