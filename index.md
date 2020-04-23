@@ -70,13 +70,7 @@ Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio
 
 
 <div class="tab-content">
-    <div id="short-tutorial" class="tab-pane fade in active">
-      <iframe src="https://www.youtube.com/embed/FYPd5W75HPE" frameborder="0" allowfullscreen></iframe>
-    </div>
-    <div id="long-tutorial" class="tab-pane fade">
-      <iframe src="https://www.youtube.com/embed/fPY13maWKKE" frameborder="0" allowfullscreen></iframe>  </div>
-
     <script src="http://api.html5media.info/1.1.8/html5media.min.js"></script>
-<video src="video.mp4" width="320" height="200" controls preload></video>
+    <video src="video/20200409_170111.mp4" width="320" height="200" controls preload></video>
 
   </div>

@@ -26,6 +26,7 @@ paginate_path: "/blog/page:num/"
 navbar-links:
   History : "history"
   News: "blog"
+  Testimonials: "testimonials"
   The Project:
     - Getting Started : "project/startingguide"
     - Cahier des charges: "project/specifications"
@@ -37,10 +38,11 @@ navbar-links:
     - Controlleur : "project/controlleur"
     - IHM : "project/ihm"
     - BOM : "project/bill_of_material"
+    - QARA documents : "project/qara"
   Community:
     - Organisation: "community/organisation"
-    - Core Team: "community/core-team"
-    - Members & Partners: "community/members-partners"
+    - Team: "community/core-team"
+    - Partners: "community/members-partners"
     - Collaboration Guidelines: "community/contribute"
     - Forum: "community/communication"
   Download: "download"
