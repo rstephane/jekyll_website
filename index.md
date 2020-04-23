@@ -71,6 +71,5 @@ Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio
 
 <div class="tab-content">
     <script src="http://api.html5media.info/1.1.8/html5media.min.js"></script>
-    <video src="video/20200409_170111.mp4" width="320" height="200" controls preload></video>
-
+    <video src="video/20200409_170111.mp4" width="620" height="400" controls preload></video>
   </div>

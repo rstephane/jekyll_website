@@ -25,10 +25,10 @@ paginate_path: "/blog/page:num/"
 # List of links in the navigation bar
 navbar-links:
   History : "history"
-  News: "blog"
   Testimonials: "testimonials"
+  News: "blog"
   The Project:
-    - Getting Started : "project/startingguide"
+    - Instructions générales : "project/startingguide"
     - Cahier des charges: "project/specifications"
     - Schémas: "project/schemas"
     - Méchanique: "project/mechanique"
@@ -41,8 +41,8 @@ navbar-links:
     - QARA documents : "project/qara"
   Community:
     - Organisation: "community/organisation"
-    - Team: "community/core-team"
-    - Partners: "community/members-partners"
+    - Team: "community/team"
+    - Partners: "community/partners"
     - Collaboration Guidelines: "community/contribute"
     - Forum: "community/communication"
   Download: "download"
