@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Important notice / Changement de stratégie pour la production
+image: /img/hello_world.jpeg
 gh-repo: recovid/documentation
 gh-badge: [star, fork, follow]
 tags: [news]

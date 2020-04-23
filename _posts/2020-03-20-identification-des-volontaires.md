@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Première identifications de volontaires
+image: /img/hello_world.jpeg
 gh-repo: recovid/documentation
 gh-badge: [star, fork, follow]
 tags: [news]
