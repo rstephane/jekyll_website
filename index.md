@@ -1,14 +1,14 @@
 ---
 layout: page
-title: RECOVID
-subtitle: DIY Respirator
+title: RECOVID DIY Respirator
+subtitle: A local project to save life
 bigimg: /img/installation-prototype-V0.jpeg
 tags: [frontpage]
 ---
 
 # Goal
 
-Develop an open source VAC with all contributions being under MIT/CC license allowing other to copy, replicate, derive similar VACs. We try selecting components that are either readily available in hospitals or in FabLabs, to make it as easy as possible to replicate the design. The design is driven by requirements provided by emergency professionals, and aim to make the usage of the device easy and familiar for them.
+**The aim of the RECOVID project** is to develop an open source VAC with all contributions being under MIT/CC license allowing other to copy, replicate, derive similar VACs. We try selecting components that are either readily available in hospitals or in FabLabs, to make it as easy as possible to replicate the design. The design is driven by requirements provided by emergency professionals, and aim to make the usage of the device easy and familiar for them.
 
 We hope that if our design is successful, it will be replicated by others.
 
@@ -22,7 +22,12 @@ L’idée est de partir des respirateurs manuels et de produire une solution pou
 
 * En donnant les codes sources et les schémas aux fablabs et Maker de France, nous serions en capacité de refaire d'autres pièces et équipements.
 
-**Le service de réanimation du CHU Grenoble nous aide à valider le prototype, et, une entreprise de la région Auvergne-Rhones-Alpes contribue au projet en concevant une version certifié et produire une première série conséquente pour le CHU.**
+**Le service de réanimation du CHU Grenoble nous aide à valider le prototype, et, une entreprise de la région Auvergne-Rhones-Alpes contribue au projet en concevant une version certifié et produire une première série pour le CHU.**
+
+<div class="tab-content">
+    <script src="http://api.html5media.info/1.1.8/html5media.min.js"></script>
+    <video src="video/20200409_170111.mp4" width="620" height="400" controls preload></video>
+</div>
 
 # Contexte et besoin
 
@@ -35,6 +40,8 @@ Le responsable des urgences du CHU de Grenoble, confirme cet état de fait; il d
 Au vu de l'augmentation de patients en état critiques, il manquera des ventilateurs/respirateurs d'ici 3 semaines (il faudra doubler le nombre de lit disponibles d'ici les prochains jours', passer d’environ 100 lits à 200 lits sous 10 jours pour le CHU de Grenoble).
 
 Le responsable des Urgences souhaite une production de 100 respirateurs (dans le cadre d’un essai clinique) à mettre à disposition du CHU progressivement dans les prochaines semaines.
+
+**Il faut réunir toutes les forces en présence si nous voulons réussir: Laboratoires de recherche, Fablab/Makers, Industriels, PMEs, Artisans, et les citoyens qui ont eux aussi des compétences et un savoir faire à apporter.**
 
 # Open Source Design
 
@@ -53,23 +60,17 @@ L'entreprise adhère au principe de partage et de diffusion que nous nous sommes
 
 # Key Research Question
 
-Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing lorem ipsum dolor sit amet nullam veroeros adipiscing.
-
-![](assets/index-0bd83ccc.JPG)
 
 * What problem are you trying to solve?
 * What technologies are you using?
 * What challenges have you faced and how did you overcome them?
 * What is the potential impact of the technology?
 
-Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing lorem ipsum dolor sit amet nullam veroeros adipiscing.
+  Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing lorem ipsum dolor sit amet nullam veroeros adipiscing.
+
+![](assets/index-0bd83ccc.JPG)
+
 
 # Getting started
 
 Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing lorem ipsum dolor sit amet nullam veroeros adipiscing.
-
-
-<div class="tab-content">
-    <script src="http://api.html5media.info/1.1.8/html5media.min.js"></script>
-    <video src="video/20200409_170111.mp4" width="620" height="400" controls preload></video>
-  </div>
