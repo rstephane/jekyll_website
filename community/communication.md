@@ -5,8 +5,6 @@ bigimg: /img/Tree.png
 tags: [project]
 ---
 
-> updated on the xx xx 2020
-
 # Communication entre les membres du collectif
 
 Nous avons mis en place un channel DISCORD.
