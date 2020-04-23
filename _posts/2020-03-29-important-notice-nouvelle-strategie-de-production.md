@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Important notice / Changement de stratégie pour la production
-image: /img/hello_world.jpeg
+image: /img/open_flicker_opensourceway.png
 gh-repo: recovid/documentation
 gh-badge: [star, fork, follow]
 tags: [news]
