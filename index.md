@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RECOVID DIY Respirator
-subtitle: A local project to save life
+subtitle: A FRENCH LOCAL PROJECT TO SAVE LIFE
 bigimg: /img/installation-prototype-V0.jpeg
 tags: [frontpage]
 ---
@@ -11,6 +11,11 @@ tags: [frontpage]
 **The aim of the RECOVID project** is to develop an open source VAC with all contributions being under MIT/CC license allowing other to copy, replicate, derive similar VACs. We try selecting components that are either readily available in hospitals or in FabLabs, to make it as easy as possible to replicate the design. The design is driven by requirements provided by emergency professionals, and aim to make the usage of the device easy and familiar for them.
 
 We hope that if our design is successful, it will be replicated by others.
+
+<div class="tab-content">
+    <script src="http://api.html5media.info/1.1.8/html5media.min.js"></script>
+    <video src="video/20200409_170111.mp4" width="960" height="400" controls preload></video>
+</div>
 
 # Notre objectif ?
 
@@ -23,11 +28,6 @@ L’idée est de partir des respirateurs manuels et de produire une solution pou
 * En donnant les codes sources et les schémas aux fablabs et Maker de France, nous serions en capacité de refaire d'autres pièces et équipements.
 
 **Le service de réanimation du CHU Grenoble nous aide à valider le prototype, et, une entreprise de la région Auvergne-Rhones-Alpes contribue au projet en concevant une version certifié et produire une première série pour le CHU.**
-
-<div class="tab-content">
-    <script src="http://api.html5media.info/1.1.8/html5media.min.js"></script>
-    <video src="video/20200409_170111.mp4" width="960" height="400" controls preload></video>
-</div>
 
 # Contexte et besoin
 
@@ -69,8 +69,3 @@ L'entreprise adhère au principe de partage et de diffusion que nous nous sommes
   Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing lorem ipsum dolor sit amet nullam veroeros adipiscing.
 
 ![](assets/index-0bd83ccc.JPG)
-
-
-# Getting started
-
-Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing lorem ipsum dolor sit amet nullam veroeros adipiscing.
