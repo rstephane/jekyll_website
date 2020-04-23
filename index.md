@@ -43,6 +43,8 @@ Le responsable des Urgences souhaite une production de 100 respirateurs (dans le
 
 **Il faut réunir toutes les forces en présence si nous voulons réussir: Laboratoires de recherche, Fablab/Makers, Industriels, PMEs, Artisans, et les citoyens qui ont eux aussi des compétences et un savoir faire à apporter.**
 
+![](img/opensource.png)
+
 # Open Source Design
 
 > Une communauté et l'Open source comme accélérateur technologique
