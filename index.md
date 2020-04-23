@@ -43,11 +43,11 @@ Le responsable des Urgences souhaite une production de 100 respirateurs (dans le
 
 **Il faut réunir toutes les forces en présence si nous voulons réussir: Laboratoires de recherche, Fablab/Makers, Industriels, PMEs, Artisans, et les citoyens qui ont eux aussi des compétences et un savoir faire à apporter.**
 
-![](img/opensource.png)
-
 # Open Source Design
 
 > Une communauté et l'Open source comme accélérateur technologique
+
+![](img/opensource.png)
 
 L'Open source et l'Open Hardware permet de faciliter l'accès et la fabrication des composants utiles pour fabriquer des respirateurs.  En donnant les codes sources et les schémas aux fablabs et Maker de France, nous serions en capacité de refaire une centaine de pièces.
 
@@ -60,9 +60,6 @@ Le fabriquant <unknown>, en acceptant de contribuer activement au projet, permet
 
 L'entreprise adhère au principe de partage et de diffusion que nous nous sommes fixés, et le projet reste open source / open hardware avec les mêmes licences.
 
-
-![](img/images_travaux.png)
-
 # Key Research Question
 
 * What problem are you trying to solve?
@@ -71,3 +68,5 @@ L'entreprise adhère au principe de partage et de diffusion que nous nous sommes
 * What is the potential impact of the technology?
 
 Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing lorem ipsum dolor sit amet nullam veroeros adipiscing.
+
+![](img/images_travaux.png)
