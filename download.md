@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Download
-bigimg: /img/flickr_opencollaborationpatent_psd.jpg
+bigimg: /img/entete/flickr_opencollaborationpatent_psd.jpg
 tags: [download]
 ---
 

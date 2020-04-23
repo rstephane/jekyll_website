@@ -1,7 +1,7 @@
 ---
 layout: page
 title: History
-bigimg: /img/flickr_fablab_marcwathieu.jpg
+bigimg: /img/entete/flickr_fablab_marcwathieu.jpg
 tags: [history]
 ---
 

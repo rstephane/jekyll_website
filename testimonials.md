@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Testimonials
-bigimg: /img/creative_flickr_horiavarlan.jpg
+bigimg: /img/entete/creative_flickr_horiavarlan.jpg
 tags: [project]
 ---
 

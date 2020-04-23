@@ -2,7 +2,7 @@
 layout: page
 title: RECOVID DIY Respirator
 subtitle: A FRENCH LOCAL PROJECT TO SAVE LIFE
-bigimg: /img/installation-prototype-V0.jpeg
+bigimg: /img/entete/installation-prototype-V0.jpeg
 tags: [frontpage]
 ---
 
