@@ -1,7 +1,10 @@
 ---
 layout: post
-title: First post!
+title: Réalisation d'une première application
 image: /img/hello_world.jpeg
+gh-repo: recovid/documentation
+gh-badge: [star, fork, follow]
+tags: [news]
 ---
 
-This is my first post, how exciting!
+Réalisation d'une première application qui permettra au praticien de visualiser et configurer les paramètres de la respiration.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Premier contact avec le CHU de Grenoble
-gh-repo: daattali/beautiful-jekyll
+gh-repo: recovid/documentation
 gh-badge: [star, fork, follow]
 tags: [news]
 comments: true
