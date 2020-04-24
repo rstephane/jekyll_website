@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Partners
-bigimg: /img/entete/agile-teams.jpg
+bigimg: /img/entete/agile-meeting.jpg
 tags: [project]
 ---
 
