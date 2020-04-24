@@ -8,10 +8,11 @@ tags: [project]
 Voici ce que disent, des citoyens, des partenaires, des artisans, des experts, sur le projet RECOVID.
 
 <!-- -->
-
+~~~
 > Félicitations pour ce projet fantastique.
 > Si la période est difficile, ça fait du bien de voir ce que l’on peut faire en libérant les énergies et en mutualisant les compétences.
 > Maxime Frachon, Cirly.com``
+~~~
 
 <!-- -->
 
@@ -24,9 +25,10 @@ Voici ce que disent, des citoyens, des partenaires, des artisans, des experts, s
 > Nicolas Terzi, CHU Grenoble``
 
 <!-- -->
-
-> Toute l'équipe SIMEP se joint à moi pour souhaiter un bel avenir au projet RECOVID.
-> Et merci encore d'avoir pensé à SIMEP pour ce projet.
-> François DELORT, simep.org``
+~~~
+Toute l'équipe SIMEP se joint à moi pour souhaiter un bel avenir au projet RECOVID.
+Et merci encore d'avoir pensé à SIMEP pour ce projet.
+François DELORT, simep.org``
+~~~
 
 <!-- -->
