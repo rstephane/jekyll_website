@@ -7,6 +7,11 @@ tags: [project]
 
 Voici ce que disent, des citoyens, des partenaires, des artisans, des experts, sur le projet RECOVID.
 
+> Citation 1
+<!-- -->
+> Citation 2
+
+
 ``Félicitations pour ce projet fantastique.
 Si la période est difficile, ça fait du bien de voir ce que l’on peut faire en libérant les énergies et en mutualisant les compétences.
 Maxime Frachon, Cirly.com``
