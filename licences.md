@@ -5,8 +5,6 @@ bigimg: /img/entete/flickr_opencollaborationpatent_psd.jpg
 tags: [licences]
 ---
 
-![](img/opensource.png)
-
 L'idée du choix des licences est orienté par une envie de rendre libre, vraiment libre les connaissances et les livrables produits par le collectif. En conséquence :
 
 # Codes informatiques
