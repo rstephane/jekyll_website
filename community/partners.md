@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Partners
+subtitle: & External contributors
 bigimg: /img/entete/partners.jpg
 tags: [project]
 ---
