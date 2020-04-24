@@ -5,6 +5,9 @@ bigimg: /img/entete/livreblanc.jpg
 tags: [history]
 ---
 
+
+# Phase 1 : Emergence d'un groupe pour construitre des respirateurs et sauver des vies
+
 * 20 mars : première identifications de volontaires et contacts avec d'autres projets DIY
 * 21 mars : premier contact avec le CHU de grenoble et identification expert technique médical
 * 22 mars : confirmation du besoin et début de spécification
@@ -14,7 +17,15 @@ tags: [history]
 * 26 mars : des premiers proto mécanique, essais moteurs, IHM avancée
 * 27 mars : réalisation d'une première application qui permettra au praticien de visualiser et configurer les paramètres de la respiration.
 * 28 mars : Présentation Proto V0.9 à < personne secrète :) >, valider tout le circuit respiratoire, et en apprendre d'avantage sur la centrale d'acquisition (afin de valider la méthodologie et s'assurer des moyens de calibration des pneumotac).
+
+# Phase 2 : Prototype V1, et exigences normatives du domaine médical, alliance des labos et makers avec les industriels pour un même objectif: un prohjet local pour sauver des vies !
+
 * 29 mars : Le projet avance bien dans les différents domaines. Au vu de l'actualité, de l’accélération futures des besoins en appareils respiratoires, **l'organisation du projet a été modifié (en accord avec l'ensemble des membres) pour procéder par lot avec un responsable par domaine**. Les pages WIKI et la landing page ont été modifié en conséquence. Une time line du projet pour les deux semaines prochaines a été aussi publié sur le site WIKI du projet. **Les notes détaillées sont en bas de page.**
+
+mettre le CR du 29 MARS
+
+# Phase 3 : Prototype V2, bla bla vers un nouveau model d'organisation... pour ... perenité ... 
+
 
 ***
 
