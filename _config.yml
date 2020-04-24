@@ -27,6 +27,7 @@ navbar-links:
   History : "history"
   Testimonials: "testimonials"
   News: "blog"
+  Partners: "community/partners"
   The Project:
     - Instructions générales : "project/startingguide"
     - Cahier des charges: "project/specifications"
@@ -42,7 +43,7 @@ navbar-links:
   Community:
     - Organisation: "community/organisation"
     - Team: "community/team"
-    - Partners: "community/partners"
+    - Community at large: "community/communityatlarge"
     - Collaboration Guidelines: "community/contribute"
     - Forum: "community/communication"
   Download: "download"
