@@ -51,6 +51,8 @@ Pour ceux qui apporterait du code (ou design, plan, etc.) dèjà écrit. Il faut
 * N'hésitez pas à nous communiquer votre avancement,
 * Si vous avez un doute merci de nous le signaler que l'on puisse éventuellement vérifier des problèmes de contrefaçon et gérer cela avec les entreprises et communautés concernées.
 
+---
+
 # Licence website
 Ce site est hébergé par github.com (gh-pages) et basé sur le framework [Beautiful Jekyll / Dean AttaliLa](https://github.com/daattali/beautiful-jekyll#readme).
 
@@ -64,9 +66,9 @@ Le Logo a été créé par ``Laurence Boissieux``, Ingénieur Inria, Research So
 
 ## Images RECOVID
 
-Les  images publiéss sur ce site proviennent du projet RECOVID. La licence des ces images est : [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr).
+Les  images publiéss sur ce site proviennent du projet RECOVID. La licence de ces images est : [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr).
 
-Les entêtes proviennent du site web [unsplash](https://unsplash.com/t/covid-19?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText), photographers :
+Les entêtes proviennent du site web [unsplash](https://unsplash.com/t/covid-19?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText), photographers are :
 
 - Evgeni Tcherkasski
 - Reuben Juarez
@@ -77,6 +79,8 @@ Les entêtes proviennent du site web [unsplash](https://unsplash.com/t/covid-19?
 - Sai Kiran Anagani
 - Clark Tibbs
 - Stefano Zancan
+
+---
 
 # Last but not least / Disclaimer
 
