@@ -1,7 +1,7 @@
 ---
 layout: page
 title: History
-bigimg: /img/entete/livreblanc.jpg
+bigimg: /img/entete/parcours.jpg
 tags: [history]
 ---
 
@@ -24,82 +24,8 @@ tags: [history]
 
 mettre le CR du 29 MARS
 
-# Phase 3 : Prototype V2, bla bla vers un nouveau model d'organisation... pour ... perenité ... 
+# Phase 3 : Prototype V2, bla bla vers un nouveau model d'organisation... pour ... perenité ...
 
-
-***
-
-# 2 Avril
-Le projet avance bien malgré de nombreux obstacles, voici un plan de bataille sur le plan des tests et mise en oeuvre proto :
-
-- Vendredi milieu après midi :
-  - Test v1.
-  - Mise en place manip ; réglages ASL5000, exploration de 2-3 jeux de paramètres de fonctionnement de v1 (pas d’IHM, pas d’alarmes etc).
-- Week-end: le travail continue, V2, etc.
-- Lundi 06/04 (selon livraisons et mises au point) :
-  - Début test exploration fonctionnement (vérif ingénierie),
-  - Protocole de test « Brest » aménagé Recovid.
-
-- Si résultats tests ok, début essais cliniques ... simples,
-- Si résultats tests nok, on corrige et relance les essais.
-
-***
-
-# 03 Avril
-Les premières livraisons de matos sont arrivées !
-
-- L’accès au banc d’essai ALAT poumon d’air liquide sassenage a été réquisitionné dans le cadre du lancement de prod air liquide/psa/valeo :frowning2: nous n'aurons pas accès à ce banc.
-- solution B: On va se rabattre sur un banc ASL… les ressources en banc asl sont maigres et toutes réquisitionnées par air liquide… mais il y a des bonnes pistes,
-- Les specs user needs seront mises à jour vendredi, ce jour,  puis soumises à <Mr Secret>  pour validation finale,
-- MAKAIR a donné hier son dossier, un projet alternatif de ventilateur. Dossier riche d’enseignement ! un grand grand merci à eux !
-
-***
-#
-# 4-5 avril 2020
-
-- Il y a eu des retards d’appro :frowning2:…. Mais sinon : la mécanisation de la compression de l’ambubag avance
-
-- Il y a un nouveau LOT :  LOT16_Validation_clinique : une petite équipe est formée pour préparer la récolte des données cliniques pour la première étude clinique
-
-- Le test sur le banc ASL  5000 avec le proto V1 était très positif !
-  Bravo à l’équipe qui a travaillé sur la V1, ça donne vraiment du crédit sur les solutions techniques de la V2
-
-***
-
-# 6-7 avril 2020
-
-6 avril :
-- tests proto v1.xx, ihm, etc. avec Mr Secret au CHU de Grenoble :slight_smile:
-- les appros continuent
-- Deuxième série avec le banc ASL :)
-
-7 avril :
-- l'idée de la journée est de relire l'ensemble des SPECS !!! c'est la PRIO du jour :slight_smile:
-- l'idée serait ensuite d'envoyer dossier technique V0 mardi soir ou mercredi matin... on est ambitieux !
-
-On continue, on ne lache rien !
-
-***
-
-#
-# 09-10 Avril et WK
-
-Jeudi 09 Avril: Réunion Discord dans l'AMPHI, plus de 30 personnes de la communauté au pu assister à la présentation des avancés du projet RECOVID, de la genèse du projet, la vision libre du projet, le montage d'un prototype V1 et ses essais, le schéma générale de la  V2 et les premiers montages :slight_smile: Nous avons aussi discuter de la suite, actions, etc.
-
-Vendredi 10 : On approche à grand pas d’un design complet !
-- La BOM est unifié en un seul doc (gros boulot!).
-- L'écriture des documents pour la certification avancent, gros boulot aussi :)
-
-Ce week-end ? Des membres de la communauté et des membres de MMM vont monter un appareil complet pour des essais lundi/mardi. Encore un gros boulot, et pendant le wk :)
-
-Les équipes MMM et autres contributeurs fournissent un énorme travail, il est fort probable que le montage ainsi que l'écriture des documents qualités prennent plus d'effort (le reste à faire aussi augmente un peu!). La cible d'un montage (indus.) serait plus probable pour le milieu de semaine prochaine qu'en début.
-
-Un grand bravo à tous !
-
-***
-
-
-# Compte Rendu 29 MARS - important -
 # Dégradation du contexte actuel
 
 > Manque de respirateurs sur la région Auvergne Rhônes-Alpes
@@ -174,66 +100,15 @@ Adrien est entré en contact avec le centre de crise sanitaire du ministère de 
 # Nouvelle feuille de route (29 Mars 2020)
 ![RECOVID TIME LINE](https://github.com/Recovid/Documentation/blob/master/images/RECOVID_Timeline_2903.png)
 
-# Recadrage des actions en cours
-(désolé pour l'utilisation du mot ''recadrage'')
-
 ## Conception / Fabrication
 
 * Premier objectif: avoir sous 8 à 15 jours, 100 appareils (inscrit comme des prototypes, essai clinique, avec comme objectif la protection du fabriquant MMM, les soignants, et nous).
 
 * MMM demande que la fabrication suive les normes (QARA, ARISK, 60601), il demande à intervenir sur la conception pour garantir une meilleure intégration pour la  fabrication ultérieure sur leur ligne de production.
 
-## Approvisionnement
-* Pour 100 équipements, il faut **commander les composants des lundi 30 mars.**
-
-## Moteurs
-
-* Commande de pièces au plus vite. Un premier prototype est quasi terminé (V1) et validera le concept pour continuer et aller vers une version productible (V2).
-
-## Alimentation
-* On prend une pièce sur le marché pour être plus proche des normes.
-
-## Batterie
-
-* Batterie électroportatif intermittente : pour déplacement patient.
-* La batterie sera prise des systèmes venant du bricolage (magasin de bricolage). 10' d'autonomie.
-* Sur l'équipement final, on va mettre un emplacement pour encastrer la batterie, cela simplifie la conception tout en garantissant un niveau de qualité élevé.
-
-## Vannes PEP
-
-* MMM va proposer des vannes (pour être proche des normes) mais leurs propositions sera discuter avec le reste du groupe.
-* Ludovic continue de réfléchir à cette problématique.
-* Contrôle PEP. Stan continue de réfléchir de son coté aussi.
-
-Il ne faut pas s'arrêter.
-
-## Sensor, capteur de pression
-* Capteur identifié. on continue, on commande.
-
-## Capteur FIO2
-
-* Non obligatoire.
-* Il peut être gérer de manière approximative : le personnel ouvre les vannes et taux oxygène dans le sang vérifié par un autre équipement. On peut donc faire autrement, mais c’est pas mal s’il y en a une :)
-
-## Firmware
-
-* MMM commence un développement en C++ (sans Arduino) pour être plus proche des normes requises par les autorités de certification.
-* Le travail sur les cartes Arduino continue. On souhaite proposer un plan B, voir une redondance dans la solution final proposé (implémentation secondaire, indépendante, qui suit les mêmes consignes et en cas de défaillance de la carte électronique principale, la solution Arduino prendrait le relai, on augmente le taux de disponibilité de la solution et on réduit le risque d'arrêt).
-
-## IHM
-
-  * Travail terminé,
-  * Test Users a planifier et faire.
-
-## Carte et câbles de connexions
-
-  * MMM se charge de cette partie.
-  * Connexion/carte connexion : assemblage dans les locaux MMM.
-
 ## Risques
 
 * L'analyse de risque est à revoir en conséquence.
-* MMM est responsable de cette activité.
 
 # Budget
 
@@ -251,3 +126,76 @@ Un appel à proposition est en cours d'écriture et sera soumis à la DGA (qui p
 * CIC-IT : [Centre d'investigation clinique](http://cic-it.fr/cic-it-grenoble.php)
 
 # Fin
+***
+
+# 2 Avril
+Le projet avance bien malgré de nombreux obstacles, voici un plan de bataille sur le plan des tests et mise en oeuvre proto :
+
+- Vendredi milieu après midi :
+  - Test v1.
+  - Mise en place manip ; réglages ASL5000, exploration de 2-3 jeux de paramètres de fonctionnement de v1 (pas d’IHM, pas d’alarmes etc).
+- Week-end: le travail continue, V2, etc.
+- Lundi 06/04 (selon livraisons et mises au point) :
+  - Début test exploration fonctionnement (vérif ingénierie),
+  - Protocole de test « Brest » aménagé Recovid.
+
+- Si résultats tests ok, début essais cliniques ... simples,
+- Si résultats tests nok, on corrige et relance les essais.
+
+***
+
+# 03 Avril
+Les premières livraisons de matos sont arrivées !
+
+- L’accès au banc d’essai ALAT poumon d’air liquide sassenage a été réquisitionné dans le cadre du lancement de prod air liquide/psa/valeo :frowning2: nous n'aurons pas accès à ce banc.
+- solution B: On va se rabattre sur un banc ASL… les ressources en banc asl sont maigres et toutes réquisitionnées par air liquide… mais il y a des bonnes pistes,
+- Les specs user needs seront mises à jour vendredi, ce jour,  puis soumises à <Mr Secret>  pour validation finale,
+- MAKAIR a donné hier son dossier, un projet alternatif de ventilateur. Dossier riche d’enseignement ! un grand grand merci à eux !
+
+***
+#
+# 4-5 avril 2020
+
+- Il y a eu des retards d’appro :frowning2:…. Mais sinon : la mécanisation de la compression de l’ambubag avance
+
+- Il y a un nouveau LOT :  LOT16_Validation_clinique : une petite équipe est formée pour préparer la récolte des données cliniques pour la première étude clinique
+
+- Le test sur le banc ASL  5000 avec le proto V1 était très positif !
+  Bravo à l’équipe qui a travaillé sur la V1, ça donne vraiment du crédit sur les solutions techniques de la V2
+
+***
+
+# 6-7 avril 2020
+
+6 avril :
+- tests proto v1.xx, ihm, etc. avec Mr Secret au CHU de Grenoble :slight_smile:
+- les appros continuent
+- Deuxième série avec le banc ASL :)
+
+7 avril :
+- l'idée de la journée est de relire l'ensemble des SPECS !!! c'est la PRIO du jour :slight_smile:
+- l'idée serait ensuite d'envoyer dossier technique V0 mardi soir ou mercredi matin... on est ambitieux !
+
+On continue, on ne lache rien !
+
+***
+
+#
+# 09-10 Avril et WK
+
+Jeudi 09 Avril: Réunion Discord dans l'AMPHI, plus de 30 personnes de la communauté au pu assister à la présentation des avancés du projet RECOVID, de la genèse du projet, la vision libre du projet, le montage d'un prototype V1 et ses essais, le schéma générale de la  V2 et les premiers montages :slight_smile: Nous avons aussi discuter de la suite, actions, etc.
+
+Vendredi 10 : On approche à grand pas d’un design complet !
+- La BOM est unifié en un seul doc (gros boulot!).
+- L'écriture des documents pour la certification avancent, gros boulot aussi :)
+
+Ce week-end ? Des membres de la communauté et des membres de MMM vont monter un appareil complet pour des essais lundi/mardi. Encore un gros boulot, et pendant le wk :)
+
+Les équipes MMM et autres contributeurs fournissent un énorme travail, il est fort probable que le montage ainsi que l'écriture des documents qualités prennent plus d'effort (le reste à faire aussi augmente un peu!). La cible d'un montage (indus.) serait plus probable pour le milieu de semaine prochaine qu'en début.
+
+Un grand bravo à tous !
+
+***
+
+
+# Compte Rendu 29 MARS - important -

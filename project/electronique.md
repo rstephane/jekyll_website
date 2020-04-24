@@ -1,12 +1,9 @@
 ---
 layout: page
 title: Electronique
-subtitle: xxxxxxx
-bigimg: /img/Tree.png
+bigimg: /img/entete/signal.jpg
 tags: [project]
 ---
-
-> updated on the xx xx 2020
 
 # section title
 

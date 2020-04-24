@@ -1,8 +1,7 @@
 ---
 layout: page
 title: IHM
-subtitle: xxxxxxx
-bigimg: /img/Tree.png
+bigimg: /img/entete/download.jpg
 tags: [project]
 ---
 
