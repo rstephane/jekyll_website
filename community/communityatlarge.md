@@ -1,7 +1,7 @@
 ---
 layout: page
 title: External contributors
-bigimg: /img/entete/partners.jpg
+bigimg: /img/entete/knowledge.jpg
 tags: [project]
 ---
 
