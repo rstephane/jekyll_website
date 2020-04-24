@@ -1,15 +1,13 @@
 ---
 layout: page
-title: Members
-subtitle: What is about ...
-bigimg: /img/creative_flickr_horiavarlan.jpg
+title: Partners
+bigimg: /img/entete/MICROSOFTADS.jpeg
 tags: [project]
 ---
 
 > All the people listed in this page contributed on the project at different level, there are important for us !
 
-Ci dessous les contributeurs au projet (pseudos Discord).
-Ces personnes sont très importantes : Elles ont permis de démarrer le projet, obtenir un premier prototype fonctionnel en un temps record.
+Ci dessous les contributeurs au projet. Ces personnes sont très importantes : Elles ont permis de démarrer le projet, obtenir un premier prototype fonctionnel en un temps record.
 
 ## Experts
 
@@ -40,8 +38,6 @@ Ces personnes sont très importantes : Elles ont permis de démarrer le projet, 
 * ``rstephane`` - aide communication inter équipes, aide sur les bonnes pratiques FLOSS & Communities, MAJ site.
 * ``Frédéric Helin`` - Il joue le rôle de rabatteur de compétences (Robotique et association Coboteam - Thésame). Frédéric est aidé par le reste des membres du collectif pour trouver aussi des personnes.
 
-## Mecanical design and motors
-
 ### Prototype Inria
 * ``sylefeb`` (Sylavain) - modélisation paramétrique
 * ``Rix`` (Eric) - modélisation, motage, tests mécaniques, test du moteur NEMA 23
@@ -54,13 +50,9 @@ Ces personnes sont très importantes : Elles ont permis de démarrer le projet, 
 * ``samuel.heidmann`` - sourcing et interface pour le capteur différenciel et absolu
 * ``ludovic lm`` - vanne réglables low-tech
 
-## Vannes PEP
-
 ### Equipe Low-tech / DIY
 ``ludovic lm`` - vanne PEP sans commande low-cost, source de pression pour la commande de la PEP commandable avec une pompe d'air pour aquarium
 motorisation : moteur essuie glace
-
-## Electroniques embarqués
 
 ### Développement logiciel embarquée
 
