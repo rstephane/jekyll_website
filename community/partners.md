@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Partners
-bigimg: /img/entete/MICROSOFTADS.jpeg
+bigimg: /img/entete/cordee.jpg
 tags: [project]
 ---
 
