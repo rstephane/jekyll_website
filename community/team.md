@@ -1,12 +1,10 @@
 ---
 layout: page
-title: The team
-subtitle: xxxxxxx
 bigimg: /img/entete/teamspirit.jpg
 tags: [project]
 ---
 
-## Coordination
+## Team coordination
 
 | Nom | Organisme | Rôle  Expertise | Photo |
 | :------ |:--- | :--- |:--- |
@@ -14,7 +12,7 @@ tags: [project]
 | Stan Borkowski | Ingénieur Inria | Chef de projet, PhD |   |
 | Stephane Ribas | Ingénieur Inria | Community management, FLOSS, AGILE Methods | ![](https://rstephane.github.io/jekyll_website/img/imgteam/logo_recovid_100x100.png) |
 
-## Admin et Approvisionnement
+## Administrative tasks et Approvisionnement
 
 | Nom | Organisme | Rôle  Expertise | Photo |
 | :------ |:--- | :--- |:--- |
@@ -41,7 +39,6 @@ tags: [project]
 | :------ |:--- | :--- |:--- |
 | xxxx  | xxxx  | xxxx  | xxxx  |
 | xxxx  | xxxx  | xxxx  | xxxx  |
-
 
 ## Sensors
 
