@@ -1,6 +1,6 @@
 ---
 layout: page
-title: History
+title: L'histoire RECOVID
 bigimg: /img/entete/parcours.jpg
 tags: [history]
 ---
@@ -18,17 +18,13 @@ tags: [history]
 * 27 mars : réalisation d'une première application qui permettra au praticien de visualiser et configurer les paramètres de la respiration.
 * 28 mars : Présentation Proto V0.9 à < personne secrète :) >, valider tout le circuit respiratoire, et en apprendre d'avantage sur la centrale d'acquisition (afin de valider la méthodologie et s'assurer des moyens de calibration des pneumotac).
 
-# Phase 2 : Prototype V1, et exigences normatives du domaine médical, alliance des labos et makers avec les industriels pour un même objectif: un prohjet local pour sauver des vies !
+# Phase 2 : Prototype V1, et exigences normatives du domaine médical, alliance des labos et makers avec les industriels pour un même objectif: un projet local pour sauver des vies !
 
-* 29 mars : Le projet avance bien dans les différents domaines. Au vu de l'actualité, de l’accélération futures des besoins en appareils respiratoires, **l'organisation du projet a été modifié (en accord avec l'ensemble des membres) pour procéder par lot avec un responsable par domaine**. Les pages WIKI et la landing page ont été modifié en conséquence. Une time line du projet pour les deux semaines prochaines a été aussi publié sur le site WIKI du projet. **Les notes détaillées sont en bas de page.**
+# 29 Mars // Dégradation du contexte actuel
 
-mettre le CR du 29 MARS
+Le projet avance bien dans les différents domaines mais l'actualité nous rattrape
 
-# Phase 3 : Prototype V2, bla bla vers un nouveau model d'organisation... pour ... perenité ...
-
-# Dégradation du contexte actuel
-
-> Manque de respirateurs sur la région Auvergne Rhônes-Alpes
+  > Manque de respirateurs sur la région Auvergne Rhônes-Alpes
 
 Les différents acteurs de la santé projettent un besoin proche de 50000 respirateurs alors que les autorités sanitaires ont recensés 30000 équipements disponibles sur la France.
 
@@ -196,6 +192,3 @@ Les équipes MMM et autres contributeurs fournissent un énorme travail, il est 
 Un grand bravo à tous !
 
 ***
-
-
-# Compte Rendu 29 MARS - important -
