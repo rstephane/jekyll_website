@@ -2,7 +2,7 @@
 layout: page
 title: Contacts
 subtitle:
-bigimg: /img/entete/MICROSOFTADS.jpeg
+bigimg: /img/entete/telephone.jpg
 tags: [contacts]
 ---
 

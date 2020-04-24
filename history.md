@@ -1,7 +1,7 @@
 ---
 layout: page
 title: History
-bigimg: /img/entete/Tree.jpeg
+bigimg: /img/entete/livreblanc.jpg
 tags: [history]
 ---
 

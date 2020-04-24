@@ -2,11 +2,9 @@
 layout: page
 title: The team
 subtitle: xxxxxxx
-bigimg: /img/Tree.png
+bigimg: /img/entete/teamspirit.jpg
 tags: [project]
 ---
-
-> updated on the xx xx 2020
 
 ## Coordination
 
