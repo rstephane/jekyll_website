@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Team members
+title: The team
 bigimg: /img/entete/cordee.jpg
 tags: [project]
 ---
