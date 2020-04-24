@@ -79,6 +79,9 @@ Les entêtes proviennent du site web [unsplash](https://unsplash.com/t/covid-19?
 - Sai Kiran Anagani
 - Clark Tibbs
 - Stefano Zancan
+- Mathias Jensen
+- Nikohoshi
+
 
 ---
 

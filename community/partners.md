@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Partners
-bigimg: /img/entete/cordee.jpg
+bigimg: /img/entete/partners.jpg
 tags: [project]
 ---
 
