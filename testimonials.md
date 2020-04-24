@@ -25,8 +25,7 @@ Maxime Frachon, Cirly.com
 > Nicolas Terzi, CHU Grenoble``
 
 
-~~~
-Toute l'équipe SIMEP se joint à moi pour souhaiter un bel avenir au projet RECOVID.
-Et merci encore d'avoir pensé à SIMEP pour ce projet.
-François DELORT, simep.org
-~~~
+> Toute l'équipe SIMEP se joint à moi pour souhaiter un bel avenir au projet RECOVID.
+> Et merci encore d'avoir pensé à SIMEP pour ce projet.
+>
+> François DELORT, simep.org
