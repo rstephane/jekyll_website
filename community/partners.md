@@ -7,7 +7,7 @@ tags: [project]
 
 > All the people listed in this page contributed on the project at different level, there are important for us !
 
-Ci dessous les contributeurs au projet. Ces personnes sont très importantes : Elles ont permis de démarrer le projet, obtenir un premier prototype fonctionnel en un temps record.
+Ci dessous les contributeurs au projet. Ces personnes sont très importantes : **Elles ont permis de démarrer le projet**, obtenir un premier prototype fonctionnel en un temps record.
 
 ## Experts
 
@@ -16,7 +16,7 @@ Ci dessous les contributeurs au projet. Ces personnes sont très importantes : E
 * ``ErikHuneker`` - réglementation dispositifs médicaux
 
 
-## The community at large !
+## Partners
 
 | Nom | Organisme | Rôle  Expertise | Photo |
 | :------ |:--- | :--- |:--- |
@@ -24,19 +24,10 @@ Ci dessous les contributeurs au projet. Ces personnes sont très importantes : E
 | xxxx  | xxxx  | xxxx  | xxxx  |
 
 
-## Partners that count for us !
-
-| Nom | Organisme | Rôle  Expertise | Photo |
-| :------ |:--- | :--- |:--- |
-| xxxx  | xxxx  | xxxx  | xxxx  |
-| xxxx  | xxxx  | xxxx  | xxxx  |
-
-
-
+## The community at large
 
 * ``jerome`` - relation avec les institutions, dev IHM
-* ``rstephane`` - aide communication inter équipes, aide sur les bonnes pratiques FLOSS & Communities, MAJ site.
-* ``Frédéric Helin`` - Il joue le rôle de rabatteur de compétences (Robotique et association Coboteam - Thésame). Frédéric est aidé par le reste des membres du collectif pour trouver aussi des personnes.
+* ``Frédéric Helin`` - Il a joué le rôle de rabatteur de compétences (Robotique et association Coboteam - Thésame). Frédéric est aidé par le reste des membres du collectif pour trouver aussi des personnes.
 
 ### Prototype Inria
 * ``sylefeb`` (Sylavain) - modélisation paramétrique
@@ -51,8 +42,8 @@ Ci dessous les contributeurs au projet. Ces personnes sont très importantes : E
 * ``ludovic lm`` - vanne réglables low-tech
 
 ### Equipe Low-tech / DIY
-``ludovic lm`` - vanne PEP sans commande low-cost, source de pression pour la commande de la PEP commandable avec une pompe d'air pour aquarium
-motorisation : moteur essuie glace
+
+* ``ludovic lm`` - vanne PEP sans commande low-cost, source de pression pour la commande de la PEP commandable avec une pompe d'air pour aquarium. motorisation : moteur essuie glace
 
 ### Développement logiciel embarquée
 
@@ -60,14 +51,12 @@ motorisation : moteur essuie glace
 * ``Romain Delpoux`` regardent le code arduino pour les moteurs ...
 
 ### Firmware Arduino
-[https://github.com/Recovid/Controller](https://github.com/Recovid/Controller)
 
-``manO`` (Manoel) et son équipe commencent implémenter des fonctions de base du VAC
+* ``manO`` (Manoel) et son équipe commencent implémenter des fonctions de base du VAC
 
 ### IHM
-[https://github.com/Recovid/ihm](https://github.com/Recovid/ihm)
 
-``Germain`` et ``jerome`` dévellopent l'interface d'utilisateur en Python sur RPi.
+* ``Germain`` et ``jerome`` développent l'interface d'utilisateur en Python sur RPi.
 
 ### Relation avec Schneider
 
