@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The team
+title: Team members
 bigimg: /img/entete/cordee.jpg
 tags: [project]
 ---
@@ -11,7 +11,8 @@ tags: [project]
 | :------ |:--- | :--- |:--- |
 | Adrien Farrugia | CEO & founder SteadXP | Conception / industrialisation / déploiement international de solutions Hardware /Software | |
 | Stan Borkowski | Ingénieur Inria | Chef de projet, PhD |   |
-| Stephane Ribas | Ingénieur Inria | Community management, FLOSS, AGILE Methods | ![](https://rstephane.github.io/jekyll_website/img/imgteam/logo_recovid_100x100.png) |
+| Stéphane Ribas | Ingénieur Inria | Community management, FLOSS, AGILE Methods | ![](https://rstephane.github.io/jekyll_website/img/imgteam/logo_recovid_100x100.png) |
+| Christophe Dehan | Ingénieur | Chef de projet MMM | ![](https://rstephane.github.io/jekyll_website/img/imgteam/logo_recovid_100x100.png) |
 
 ## Administrative tasks et Approvisionnement
 

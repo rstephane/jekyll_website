@@ -81,7 +81,8 @@ Les entêtes proviennent du site web [unsplash](https://unsplash.com/t/covid-19?
 - Stefano Zancan
 - Mathias Jensen
 - Nikohoshi
-
+- Todd Diemer
+- STIL
 
 ---
 

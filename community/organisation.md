@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Organisation
-bigimg: /img/entete/dosomething.jpg
+bigimg: /img/entete/organisation.jpg
 tags: [project]
 ---
 
