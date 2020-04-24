@@ -1,7 +1,7 @@
 ---
 layout: page
 title: IHM
-bigimg: /img/entete/download.jpg
+bigimg: /img/entete/code.jpg
 tags: [project]
 ---
 
