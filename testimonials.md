@@ -19,7 +19,7 @@ Voici ce que disent, des citoyens, des partenaires, des artisans, des experts, s
 > A nous de concrétiser l’essai qui est à portée de main.
 >
 > Prenez soin de vous et des vôtres !
-> Nicolas Terzi, CHU Grenoble``
+> Nicolas Terzi, CHU Grenoble
 
 ---
 
