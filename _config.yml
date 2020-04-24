@@ -46,7 +46,11 @@ navbar-links:
     - Community at large: "community/communityatlarge"
     - Collaboration Guidelines: "community/contribute"
     - Forum: "community/communication"
-  Download: "download"
+  Ressources :
+    - Download: "ressources/download"
+    - Publications : "ressources/publications"
+    - Photos : "ressources/photos"
+    - Videos : "ressources/videos"
   Licences: "licences"
   Contacts: "contacts"
 
