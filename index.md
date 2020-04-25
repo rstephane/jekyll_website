@@ -14,7 +14,7 @@ We hope that if our design is successful, it will be replicated by others.
 
 <div class="tab-content">
     <script src="http://api.html5media.info/1.1.8/html5media.min.js"></script>
-    <video src="video/20200409_170111.mp4" width="630" height="400" controls preload></video>
+    <video src="video/20200409_170111.mp4" width="430" height="240" controls preload></video>
 </div>
 
 # Notre objectif ?
