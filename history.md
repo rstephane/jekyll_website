@@ -5,6 +5,38 @@ bigimg: /img/entete/parcours.jpg
 tags: [history]
 ---
 
+# Preambule
+Recovid est un collectif de citoyens rassemblant des acteurs de différents milieux économiques et académiques Auvergne Rhône Alpes dans le but de fédérer des compétences multidisciplinaires autour de la fabrication d’une assistance respiratoire contrôlée non conventionnelle.
+
+* Cette action a pour but de rendre possible la fabrication locale d’une assistance respiratoire non conventionnelle dans le cas où il puisse y avoir une pénurie d’équipements.
+
+Les premières actions de ce collectif ont été d’échanger avec des professionnels de santé (réanimateur, médecin, pneumologue) afin de vérifier les besoins, de recueillir des informations pour bien poser le problème et enfin de mobiliser des ressources pour apporter une solution technique.
+
+Nous travaillons à structurer les informations recueillies pour permettre une meilleur collaboration entre contributeurs. Les solutions techniques seront évaluées par le CHU de Grenoble (médecin réanimateur spécialiste de l'assistance respiratoire) sur un banc de test hospitalier afin de vérifier le bon fonctionnement.
+
+**L’objectif est de produire un petit nombre de prototypes fonctionnels dans les prochains jours.**
+
+Cette initiative a démarré le 20 mars 2020 et à recueilli de nombreux signes d’intérêts. Les résultats de ce travail feront l’objet d’une diffusion libre afin que les ateliers industriels ou associatifs (fablab, makerspace, etc.) puissent répliquer localement l’équipement. Nous remercions toutes les personnes solidaires et particulièrement les soignants qui nous font confiance dans ce contexte de crise sanitaire.
+
+Nous rappelons que la priorité absolue est de vous protéger en respectant le confinement. Nous travaillerons en évitant au maximum les rapprochements physiques.
+
+# Motivation : situation sanitaire
+L'évolution de l’épidémie de Coronavirus (CoVid-19) est inquiétante.
+
+Avec le pic épidémique, les hôpitaux risquent de manquer de respirateurs (machines de Ventilation Assistée Controlée). Nous souhaitons proposer une **solution open-source** pour fabriquer des machines de CMV-VC d’urgence.
+
+L’idée est de partir des respirateurs manuels et de produire une solution pour les mécaniser avec un bras mécanique et de l’électronique. Nous sommes collectif citoyen rassemblant des acteurs de différents milieux économiques et académiques Auvergne Rhône Alpes. Le service de réanimation du CHU Grenoble nous aide à valider le prototype.
+
+L’exemple du grand Est fait craindre des situations tragiques où l’absence de moyen immédiat amène les personnels soignants à faire des choix difficiles dont la justification n'est pas uniquement l'éthique médicale habituelle mais la pénurie de matériel et/ou de soignants.
+
+L’état met en oeuvre d’importants moyens pour éviter ces situations de pénurie. Nous n’avons pas vocation à se substituer à ces actions d’envergure mais au contraire de les soutenir. Sur un petit panel d’une dizaine de personnels soignants interrogés proche des services des services hospitaliers de Médecine Intensive-Réanimation et d'Anesthésie-Réanimation, une large majorité pense que le risque de manque de respirateur est sérieux.
+
+Alors dans un contexte très dégradé, **l’usage d’une assistance respiratoire non conventionnelle pourrait devenir une option dégradée permettant le passage des phases très aigues, voire limiter la morbi-mortalité.**
+
+**Les premiers prototypes devraient être prêts vers le début de la semaine prochaine**, pour des tests sur poumon artificiel débutant immédiatement après. **L’utilisation en hôpital pourrait commencer vers la fin de la semaine du 30 mars.**
+
+Ce projet est une course contre la montre, et **nous avons besoin d’aide.**
+
 
 # Phase 1 : Emergence d'un groupe pour construitre des respirateurs et sauver des vies
 

@@ -5,6 +5,8 @@ bigimg: /img/entete/knowledge.jpg
 tags: [project]
 ---
 
+Recovid est un collectif de citoyens rassemblant des acteurs de différents milieux économiques et académiques Auvergne Rhône Alpes dans le but de fédérer des compétences multidisciplinaires autour de la fabrication d’une assistance respiratoire contrôlée non conventionnelle.
+
 > All the people listed in this page contributed on the project at different level, there are important for us !
 
 Ci dessous les contributeurs au projet. Ces personnes sont très importantes : **Elles ont permis de démarrer le projet**, obtenir un premier prototype fonctionnel en un temps record.
