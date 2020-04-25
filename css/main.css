@@ -792,9 +792,18 @@ pre {
   font-size: 16px;
 }
 
-.row {
+/* -------------------------------------------- */
+
+
+/* Rstephane */
+/* .row {
     margin-right: -250px;
     margin-left: -250px;
 }
 
-/* -------------------------------------------- */
+.container-fluid > .navbar-collapse, .container-fluid > .navbar-header, .container > .navbar-collapse, .container > .navbar-header {
+    margin-right: 50px;
+    margin-left: 30px;
+}
+
+*/
