@@ -12,7 +12,7 @@ tags: [frontpage]
 
 We hope that if our design is successful, it will be replicated by others.
 
-<div class="tab-content">
+<div class="tab-content" align="center">
     <script src="http://api.html5media.info/1.1.8/html5media.min.js"></script>
     <video src="video/20200409_170111.mp4" width="330" height="330" align="center" controls preload></video>
 </div>
