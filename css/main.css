@@ -796,6 +796,12 @@ pre {
 
 
 /* Rstephane */
+
+.container-fluid > .navbar-collapse, .container-fluid > .navbar-header, .container > .navbar-collapse, .container > .navbar-header {
+    margin-right: 11px;
+    margin-left: -15px;
+}
+
 /* .row {
     margin-right: -250px;
     margin-left: -250px;
