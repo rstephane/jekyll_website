@@ -37,4 +37,4 @@ Vous pouvez aussi lire le posts suivant pour plus d'explication sur les raisons 
 
 ## Comment communiquons entre nous ?
 
-- Règles de communication, voir la section [Communication](https://github.com/Recovid/Documentation/wiki/09-Communication).
+- Règles de communication, voir la section [Communication](https://rstephane.github.io/jekyll_website/communication).
