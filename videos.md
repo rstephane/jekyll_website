@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Video Gallery
-bigimg: /img/entete/code.jpg
+bigimg: /img/entete/video.jpg
 tags: [videos]
 ---
 

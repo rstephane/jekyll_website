@@ -83,6 +83,7 @@ Les entêtes proviennent du site web [unsplash](https://unsplash.com/t/covid-19?
 - Nikohoshi
 - Todd Diemer
 - STIL
+- Chalo Garcia
 
 ---
 
