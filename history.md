@@ -5,7 +5,7 @@ bigimg: /img/entete/parcours.jpg
 tags: [history]
 ---
 
-# Preambule
+# Préambule
 Recovid est un collectif de citoyens rassemblant des acteurs de différents milieux économiques et académiques Auvergne Rhône Alpes dans le but de fédérer des compétences multidisciplinaires autour de la fabrication d’une assistance respiratoire contrôlée non conventionnelle.
 
 * Cette action a pour but de rendre possible la fabrication locale d’une assistance respiratoire non conventionnelle dans le cas où il puisse y avoir une pénurie d’équipements.
@@ -38,7 +38,7 @@ Alors dans un contexte très dégradé, **l’usage d’une assistance respirato
 Ce projet est une course contre la montre, et **nous avons besoin d’aide.**
 
 
-# Phase 1 : Emergence d'un groupe pour construitre des respirateurs et sauver des vies
+# Phase 1 : Emergence du groupe
 
 * 20 mars : première identifications de volontaires et contacts avec d'autres projets DIY
 * 21 mars : premier contact avec le CHU de grenoble et identification expert technique médical
@@ -50,9 +50,7 @@ Ce projet est une course contre la montre, et **nous avons besoin d’aide.**
 * 27 mars : réalisation d'une première application qui permettra au praticien de visualiser et configurer les paramètres de la respiration.
 * 28 mars : Présentation Proto V0.9 à < personne secrète :) >, valider tout le circuit respiratoire, et en apprendre d'avantage sur la centrale d'acquisition (afin de valider la méthodologie et s'assurer des moyens de calibration des pneumotac).
 
-# Phase 2 : Prototype V1, et exigences normatives du domaine médical, alliance des labos et makers avec les industriels pour un même objectif: un projet local pour sauver des vies !
-
-# 29 Mars // Dégradation du contexte actuel
+# Phase 2 // 29 Mars // Dégradation du contexte actuel
 
 Le projet avance bien dans les différents domaines mais l'actualité nous rattrape
 
@@ -125,18 +123,11 @@ Les coordinateurs du projet sont: le CHU de Grenoble, MMM et INRIA.
 # Coordination avec les autorités locales et nationales
 Adrien est entré en contact avec le centre de crise sanitaire du ministère de la santé et la région pour impliquer autant que possible les autorités dans le déploiement et la coordination nationale des essais (CHU Brest - Nantes). Les contacts sont en cours en ce moment même, il reviendra vers nous très prochainement avec plus d’informations.
 
-# Nouvelle feuille de route (29 Mars 2020)
-![RECOVID TIME LINE](https://github.com/Recovid/Documentation/blob/master/images/RECOVID_Timeline_2903.png)
-
 ## Conception / Fabrication
 
 * Premier objectif: avoir sous 8 à 15 jours, 100 appareils (inscrit comme des prototypes, essai clinique, avec comme objectif la protection du fabriquant MMM, les soignants, et nous).
 
 * MMM demande que la fabrication suive les normes (QARA, ARISK, 60601), il demande à intervenir sur la conception pour garantir une meilleure intégration pour la  fabrication ultérieure sur leur ligne de production.
-
-## Risques
-
-* L'analyse de risque est à revoir en conséquence.
 
 # Budget
 
@@ -152,75 +143,3 @@ Un appel à proposition est en cours d'écriture et sera soumis à la DGA (qui p
 * QARA : _Quality Assurance and Regulatory Affairs for Medical Devices (QARA)_.
 * 60601 : Norme médicale en matière de sécurité de base et de performances essentielles des appareils électro médicaux.
 * CIC-IT : [Centre d'investigation clinique](http://cic-it.fr/cic-it-grenoble.php)
-
-# Fin
-***
-
-# 2 Avril
-Le projet avance bien malgré de nombreux obstacles, voici un plan de bataille sur le plan des tests et mise en oeuvre proto :
-
-- Vendredi milieu après midi :
-  - Test v1.
-  - Mise en place manip ; réglages ASL5000, exploration de 2-3 jeux de paramètres de fonctionnement de v1 (pas d’IHM, pas d’alarmes etc).
-- Week-end: le travail continue, V2, etc.
-- Lundi 06/04 (selon livraisons et mises au point) :
-  - Début test exploration fonctionnement (vérif ingénierie),
-  - Protocole de test « Brest » aménagé Recovid.
-
-- Si résultats tests ok, début essais cliniques ... simples,
-- Si résultats tests nok, on corrige et relance les essais.
-
-***
-
-# 03 Avril
-Les premières livraisons de matos sont arrivées !
-
-- L’accès au banc d’essai ALAT poumon d’air liquide sassenage a été réquisitionné dans le cadre du lancement de prod air liquide/psa/valeo :frowning2: nous n'aurons pas accès à ce banc.
-- solution B: On va se rabattre sur un banc ASL… les ressources en banc asl sont maigres et toutes réquisitionnées par air liquide… mais il y a des bonnes pistes,
-- Les specs user needs seront mises à jour vendredi, ce jour,  puis soumises à <Mr Secret>  pour validation finale,
-- MAKAIR a donné hier son dossier, un projet alternatif de ventilateur. Dossier riche d’enseignement ! un grand grand merci à eux !
-
-***
-#
-# 4-5 avril 2020
-
-- Il y a eu des retards d’appro :frowning2:…. Mais sinon : la mécanisation de la compression de l’ambubag avance
-
-- Il y a un nouveau LOT :  LOT16_Validation_clinique : une petite équipe est formée pour préparer la récolte des données cliniques pour la première étude clinique
-
-- Le test sur le banc ASL  5000 avec le proto V1 était très positif !
-  Bravo à l’équipe qui a travaillé sur la V1, ça donne vraiment du crédit sur les solutions techniques de la V2
-
-***
-
-# 6-7 avril 2020
-
-6 avril :
-- tests proto v1.xx, ihm, etc. avec Mr Secret au CHU de Grenoble :slight_smile:
-- les appros continuent
-- Deuxième série avec le banc ASL :)
-
-7 avril :
-- l'idée de la journée est de relire l'ensemble des SPECS !!! c'est la PRIO du jour :slight_smile:
-- l'idée serait ensuite d'envoyer dossier technique V0 mardi soir ou mercredi matin... on est ambitieux !
-
-On continue, on ne lache rien !
-
-***
-
-#
-# 09-10 Avril et WK
-
-Jeudi 09 Avril: Réunion Discord dans l'AMPHI, plus de 30 personnes de la communauté au pu assister à la présentation des avancés du projet RECOVID, de la genèse du projet, la vision libre du projet, le montage d'un prototype V1 et ses essais, le schéma générale de la  V2 et les premiers montages :slight_smile: Nous avons aussi discuter de la suite, actions, etc.
-
-Vendredi 10 : On approche à grand pas d’un design complet !
-- La BOM est unifié en un seul doc (gros boulot!).
-- L'écriture des documents pour la certification avancent, gros boulot aussi :)
-
-Ce week-end ? Des membres de la communauté et des membres de MMM vont monter un appareil complet pour des essais lundi/mardi. Encore un gros boulot, et pendant le wk :)
-
-Les équipes MMM et autres contributeurs fournissent un énorme travail, il est fort probable que le montage ainsi que l'écriture des documents qualités prennent plus d'effort (le reste à faire aussi augmente un peu!). La cible d'un montage (indus.) serait plus probable pour le milieu de semaine prochaine qu'en début.
-
-Un grand bravo à tous !
-
-***
