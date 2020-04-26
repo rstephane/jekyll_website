@@ -11,8 +11,6 @@ Merci !
 
 Ci dessous les partenaires du projet :
 
-|  |  |
 |:--- |:--- |
 |  ![](img/partners/logoCIRLY.jpg) |  ![](img/partners/logoef.jpg) |
 |  ![](img/partners/LogoSimep.png) |  ![](img/partners/logoSchneider-Electric.jpg)|
-|   |   |
