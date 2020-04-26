@@ -9,9 +9,10 @@ Recovid est un collectif de citoyens rassemblant des acteurs de différents mili
 
 Merci !
 
-Ci dessous les partenaires du projet : 
+Ci dessous les partenaires du projet :
 
-| Nom | Organisme | Rôle  Expertise | Photo |
-| :------ |:--- | :--- |:--- |
-| xxxx  | xxxx  | xxxx  | xxxx  |
-| xxxx  | xxxx  | xxxx  | xxxx  |
+|  |  |
+|:--- |:--- |
+|  ![](img/partners/logoCIRLY.jpg) |  ![](img/partners/logoef.jpg) |
+|  ![](img/partners/LogoSimep.png |  ![](img/partners/logoSchneider-Electric.jpg | 
+|   |   |
