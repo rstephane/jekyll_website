@@ -10,8 +10,7 @@ You will find below all the videos about recovid.
 <div class="tab-content" align="center">
     <script src="http://api.html5media.info/1.1.8/html5media.min.js"></script>
 
-    <h3>RECOVID AT A GLANCE !</h3>
-    <video src="../video/RECOVID-BOX.mov" width="330" height="330" align="center" controls preload></video>
+    <video src="../video/RECOVID-BOX.mov" poster="/img/entete/video.jpg" width="330" height="330" align="center" controls preload></video>
 
     <video src="../video/ambubag-6.mp4" width="330" height="330" align="center" controls preload></video>
 
