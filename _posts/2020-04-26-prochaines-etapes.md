@@ -7,21 +7,20 @@ gh-badge: [star, fork, follow]
 tags: [news]
 ---
 
-#
-# News Week-end 25-25 Avril
+# News Week-end 20-26 Avril
 # Notes de Marie Anne
-#
 
 # Résumé semaine passé
 
 **La semaine du 20 au 26 a été très mouvementée :** ça devait être la semaine où les personnels MMM et INRIA décèleraient pour reprendre leurs activités pro respectives. Cette décélération s’est faite un peu sous tension, car le RECOVID n’était pas encore fonctionnel, il fallait organiser la transition, etc…. pas facile….
 
-Vendredi 24 Avril, **on apprend qu’une grand partie des ventilateurs produits par Air Liquide+PSA+Valeo après la commande urgente de l’Etat, ne vont pas répondre au besoin** d’augmenter de façon significative le parc de ventilateur de réanimation (qui est en France ~5000-6000 machines contre trois fois plus, je crois, en Allemagne)…
+Vendredi 24 Avril, **on apprend qu’une grand partie des ventilateurs produits par Air Liquide+PSA+Valeo après la commande urgente de l’Etat, ne vont pas répondre au besoin** d’augmenter de façon significative le parc de ventilateur de réanimation (qui est en France ~5000-6000 machines contre trois fois plus en Allemagne - chiffres à vérifier)…
 
 Du coup, au sein du collectif RECOVID et de MMM, **nous allons continuer de travailler sur le RECOVID** à un tempo soutenu (4-5 personne de MMM, dont moi, restons à 100% sur le projet) pour finir le premier dossier technique (et la vérif de performance de la ventilation, les essais LCIE, etc..). Ainsi, les activités QARA continuent….
 
+Une partie des contributeurs INRIA continuent aussi (temps non défini), ainsi que d'autres personnes (bref notre communauté ! oui ! vous! ).
 
-# Timeline (draft)
+# Timeline  - draft, cible mouvante
 
 - Semaine du 27 avril à 1er mai : l’objectif c’est de finir l’implémentation des **specs côté logiciel.**
 
@@ -44,6 +43,6 @@ S’il faut faire un « deuxième essai » pour que RECOVID soit utilisable dans
 
 **A tout moment, on reste mobilisé**, si malgré tout, une seconde vague ou quoi, nécessiterait que le RECOVID soit finalisé plus rapidement et qu’il soit produit.
 
-# Voila, c'est bcq et il ya pas mal de reste à faire
-# Merci encore pour votre engagement
-# Recovid: un projet local pour sauver des vies.
+### Voila, c'est bcq et il ya pas mal de reste à faire
+### Merci encore pour votre engagement
+### Recovid: un projet local pour sauver des vies.
