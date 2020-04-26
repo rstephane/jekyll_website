@@ -8,7 +8,7 @@ tags: [frontpage]
 
 # Goal
 
-**The aim of the RECOVID project** is to develop an open source VAC with all contributions being under MIT/CC license allowing other to copy, replicate, derive similar VACs. We try selecting components that are either readily available in hospitals or in FabLabs, to make it as easy as possible to replicate the design. The design is driven by requirements provided by emergency professionals, and aim to make the usage of the device easy and familiar for them.
+The aim of the RECOVID project is to **develop an open source VAC with all contributions being under MIT/CC license** allowing other to copy, replicate, derive similar VACs. We try selecting components that are either readily available in hospitals or in FabLabs, to make it as easy as possible to replicate the design. The design is driven by requirements provided by emergency professionals, and aim to make the usage of the device easy and familiar for them.
 
 We hope that if our design is successful, it will be replicated by others.
 
@@ -18,6 +18,8 @@ We hope that if our design is successful, it will be replicated by others.
 </div>
 
 # Notre objectif ?
+
+Recovid est un **collectif de citoyens** rassemblant des acteurs de différents milieux économiques et académiques Auvergne Rhône Alpes dans le but de **fabriquer une assistance respiratoire contrôlée non conventionnelle.**
 
 Avec le pic épidémique, les hôpitaux risquent de manquer de respirateurs (machines de Ventilation Assistée Controlée).
 
