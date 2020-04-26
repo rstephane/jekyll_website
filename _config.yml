@@ -45,7 +45,7 @@ navbar-links:
     - Team: "community/team"
     - Community at large: "community/communityatlarge"
     - Collaboration Guidelines: "community/contribute"
-    - Forum: "community/communication"
+    - Communication: "community/communication"
   Ressources :
     - Download: "ressources/download"
     - Publications : "ressources/publications"
