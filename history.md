@@ -107,35 +107,14 @@ MMM adhère au principe de partage et de diffusion que nous nous sommes fixés, 
 
 > On reste sur notre ligne, notre fil conducteur; publier des livrables libres.
 
-# Evolution de l'organisation du projet ?
-En conséquence, nous devons revoir note organisation de travail.
-
-En accord avec l'ensembles des membres du projet, nous avons définis des lots avec une personne responsable à la tête de chaque lot:
-
-  * LIRE ABSOLUMENT la section [Organisation](https://github.com/Recovid/Documentation/wiki/02-Organisation).
-
-Il est possible que dans certains lots nous allons avoir deux équipes travaillant sur des solutions alternatives du même problème dans le but d’avoir un plan B (voir de la redondance).
-
 Le projet est en mode PORTAGE par MMM (on rappelle que MinMaxMedical prend la responsabilité du fabriquant, il faut donc que la société puisse garantir que la conception et la fabrication respectent les étapes permettant "la certification").
 
 Les coordinateurs du projet sont: le CHU de Grenoble, MMM et INRIA.
-
-# Coordination avec les autorités locales et nationales
-Adrien est entré en contact avec le centre de crise sanitaire du ministère de la santé et la région pour impliquer autant que possible les autorités dans le déploiement et la coordination nationale des essais (CHU Brest - Nantes). Les contacts sont en cours en ce moment même, il reviendra vers nous très prochainement avec plus d’informations.
-
-## Conception / Fabrication
-
-* Premier objectif: avoir sous 8 à 15 jours, 100 appareils (inscrit comme des prototypes, essai clinique, avec comme objectif la protection du fabriquant MMM, les soignants, et nous).
-
-* MMM demande que la fabrication suive les normes (QARA, ARISK, 60601), il demande à intervenir sur la conception pour garantir une meilleure intégration pour la  fabrication ultérieure sur leur ligne de production.
 
 # Budget
 
 * 1 équipement = 1000 euros environ,
 * 100 équipements = 100ke environ.
-
-INRIA évalue si l'institut peut payer une partie du budget requit.
-Un appel à proposition est en cours d'écriture et sera soumis à la DGA (qui pourrait financer le projet). A suivre :)
 
 # Glossaire
 
