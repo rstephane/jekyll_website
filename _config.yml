@@ -28,7 +28,10 @@ navbar-links:
   Testimonials: "testimonials"
   News: "blog"
   Partners: "partners"
-  The Project:
+  Clinical Ressources:
+    - Key ventilation specifications : "project/startingguide"
+    - xxxxx: "project/specifications"
+  DIY Project:
     - Instructions générales : "project/startingguide"
     - Cahier des charges: "project/specifications"
     - Schémas: "project/schemas"
