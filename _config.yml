@@ -29,8 +29,8 @@ navbar-links:
   Partners: "partners"
   Clinical Ressources:
     - Key ventilation specifications : "clinical/specifications"
+    - Méthodologie: "clinical/methodologie"
     - Key results: "clinical/clinicalresults"
-    - XXXX: "clinical/other"
   DIY Project:
     - Instructions générales : "project/startingguide"
     - Cahier des charges: "project/specifications"
@@ -47,7 +47,7 @@ navbar-links:
     - Organisation: "community/organisation"
     - Team: "community/team"
     - Community at large: "community/communityatlarge"
-    - Collaboration Guidelines: "community/contribute"
+    - Contribute: "community/contribute"
     - Communication: "community/communication"
   Ressources :
     - Download: "ressources/download"
