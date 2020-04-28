@@ -11,7 +11,7 @@ Recovid est avant tout un collectif de citoyens rassemblant des acteurs de diff�
 
 Ci dessous les contributeurs au projet. Ces personnes sont très importantes : **Elles ont permis de démarrer le projet**, obtenir un premier prototype fonctionnel en un temps record.
 
-**Ils ont mis à notre disposition leurs savoir faire, leurs temps et énergies. Nous les remercions pour leurs engagements et l'ensemble du travail réalisé.£**£
+**Ils ont mis à notre disposition leurs savoir faire, leurs temps et énergies. Nous les remercions pour leurs engagements et l'ensemble du travail réalisé.**
 
 # Partenaires du projet
 
