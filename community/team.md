@@ -5,6 +5,8 @@ bigimg: /img/entete/cordee.jpg
 tags: [project]
 ---
 
+Ci dessous les contributeurs actifs (et actuels) au projet. Ces personnes sont très importantes : Elles permettent de faire perdurer le projet.
+
 ## Team coordination
 
 | Nom | Organisme | Rôle  Expertise | Photo |

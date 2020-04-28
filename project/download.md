@@ -27,7 +27,7 @@ Dans ce fichier zip, vous trouverez les documents suivants :
 
 # General code repository
 
-Une fois que vous aurez téléchargé la documentation, il est important de télécharger aussi les codes sources pour : le controlleur, l'applicaiton et l'IHM.
+Une fois que vous aurez téléchargé la documentation, il est important de télécharger aussi les codes sources pour le controlleur, l'application et l'IHM.
 
 [GITHUB RECOVID](https://github.com/Recovid/)
 
