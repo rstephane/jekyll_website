@@ -108,12 +108,14 @@ La PME grenobloise adhère au principe de partage et de diffusion que nous nous 
 
 > On reste sur notre ligne, notre fil conducteur; publier des livrables libres.
 
-Les coordinateurs du projet sont: le CHU de Grenoble, MMM et INRIA.
+Les coordinateurs du projet sont:
+- le CHU de Grenoble,
+- une PME de R&D en dispositifs médicaux de la vallée grenobloise et,
+- INRIA.
 
 # Budget
 
-* 1 équipement = 1000 euros environ,
-* 100 équipements = 100ke environ.
+* 1 équipement = 1000 euros environ
 
 # Glossaire
 
