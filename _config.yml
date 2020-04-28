@@ -41,7 +41,7 @@ navbar-links:
     - Team: "community/team"
     - Community at large: "community/communityatlarge"
     - How to contribute: "community/contribute"
-  Communication: "communication"
+    - Communication: "community/communication"
   Licences: "licences"
   Testimonials: "testimonials"
   Wall of fame: "walloffame"
