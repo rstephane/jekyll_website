@@ -34,8 +34,8 @@ navbar-links:
     - Publications : "clinical/publications"
   DIY Project Ressources:
     - Instructions générales : "project/startingguide"
-    - Download: "ressources/download"
-    - Photos : "ressources/photos"
+    - Download: "project/download"
+    - Photos : "project/photos"
     - Videos : "videos"
   Community:
     - Organisation: "community/organisation"

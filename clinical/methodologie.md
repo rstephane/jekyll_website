@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Méthodologie
-bigimg: /img/installation-prototype-V0.jpeg
+bigimg: /img/entete/installation-prototype-V0.jpeg
 tags: [specifications]
 ---
 

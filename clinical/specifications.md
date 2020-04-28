@@ -1,8 +1,7 @@
 ---
 layout: page
-title: RECOVID
-subtitle: Spécifications
-bigimg: /img/installation-prototype-V0.jpeg
+title: Spécifications
+bigimg: /img/entete/installation-prototype-V0.jpeg
 tags: [specifications]
 ---
 
