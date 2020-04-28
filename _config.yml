@@ -28,8 +28,8 @@ navbar-links:
   Testimonials: "testimonials"
   Wall of fame: "walloffame"
   Clinical Ressources:
-    - Key ventilation specifications : "clinical/specifications"
     - Méthodologie: "clinical/methodologie"
+    - Key ventilation specifications : "clinical/specifications"
     - Key results: "clinical/clinicalresults"
     - Publications : "ressources/publications"
   DIY Project:
@@ -48,16 +48,14 @@ navbar-links:
     - Organisation: "community/organisation"
     - Team: "community/team"
     - Community at large: "community/communityatlarge"
-    - Partners: "partners"
-    - Contribute: "community/contribute"
-    - Communication: "community/communication"
+    - How to contribute: "community/contribute" 
   Ressources :
     - Download: "ressources/download"
     - Photos : "ressources/photos"
     - Videos : "videos"
   Licences: "licences"
   News: "blog"
-  Communication: "contacts"
+  Communication: "community/communication"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
