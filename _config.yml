@@ -26,11 +26,12 @@ paginate_path: "/blog/page:num/"
 navbar-links:
   History : "history"
   Testimonials: "testimonials"
-  Partners: "partners"
+  Wall of fame: "walloffame"
   Clinical Ressources:
     - Key ventilation specifications : "clinical/specifications"
     - Méthodologie: "clinical/methodologie"
     - Key results: "clinical/clinicalresults"
+    - Publications : "ressources/publications"
   DIY Project:
     - Instructions générales : "project/startingguide"
     - Cahier des charges: "project/specifications"
@@ -47,16 +48,16 @@ navbar-links:
     - Organisation: "community/organisation"
     - Team: "community/team"
     - Community at large: "community/communityatlarge"
+    - Partners: "partners"
     - Contribute: "community/contribute"
     - Communication: "community/communication"
   Ressources :
     - Download: "ressources/download"
-    - Publications : "ressources/publications"
     - Photos : "ressources/photos"
     - Videos : "videos"
   Licences: "licences"
   News: "blog"
-  Contacts: "contacts"
+  Communication: "contacts"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar

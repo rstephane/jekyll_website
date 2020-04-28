@@ -17,13 +17,9 @@ Un prototype est réalisé et présenter avec succès à des experts du domaine 
 
 Vous pouvez aussi lire le posts suivant pour plus d'explication sur les raisons de cette [nouvelle organisation](https://rstephane.github.io/jekyll_website/29-03-2020-important-notice-nouvelle-strategie-de-production/).
 
-## Méthodologie
+## Coordinateurs du projet
 
-1. Cahier des besoins ambitieux élaboré en collaboration avec Nicolas Terzi, chef de service réanimation au CHU de Grenoble,
-2. Prototype basé sur le réemploi de matériel médical,
-3. Dispositif répondant aux besoins spécifiques des patients covid,
-4. Accès à des moyens de test spécifique au développement de respirateurs professionnels,
-5. Contact pris avec en vue d'une étude clinique avant déploiement.
+- Les coordinateurs du projet sont: le CHU de Grenoble, la PME (dont le nom gardé secret) et INRIA.
 
 ## Comment travaillons nous ensemble ?
 

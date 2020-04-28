@@ -14,9 +14,9 @@ Les premières actions de ce collectif ont été d’échanger avec des professi
 
 Nous travaillons à structurer les informations recueillies pour permettre une meilleur collaboration entre contributeurs. Les solutions techniques seront évaluées par le CHU de Grenoble (médecin réanimateur spécialiste de l'assistance respiratoire) sur un banc de test hospitalier afin de vérifier le bon fonctionnement.
 
-**L’objectif est de produire un petit nombre de prototypes fonctionnels dans les prochains jours.**
+**L’objectif est de produire un petit nombre de prototypes fonctionnels dans les prochaines semaines.**
 
-Cette initiative a démarré le 20 mars 2020 et à recueilli de nombreux signes d’intérêts. Les résultats de ce travail feront l’objet d’une diffusion libre afin que les ateliers industriels ou associatifs (fablab, makerspace, etc.) puissent répliquer localement l’équipement. Nous remercions toutes les personnes solidaires et particulièrement les soignants qui nous font confiance dans ce contexte de crise sanitaire.
+Cette initiative a démarré le 20 mars 2020 et à recueilli de nombreux signes d’intérêts. Les résultats de ce travail font l’objet d’une diffusion libre afin que les ateliers industriels ou associatifs (fablab, makerspace, etc.) puissent répliquer localement l’équipement. Nous remercions toutes les personnes solidaires et particulièrement les soignants qui nous font confiance dans ce contexte de crise sanitaire.
 
 Nous rappelons que la priorité absolue est de vous protéger en respectant le confinement. Nous travaillerons en évitant au maximum les rapprochements physiques.
 
@@ -33,12 +33,12 @@ L’état met en oeuvre d’importants moyens pour éviter ces situations de pé
 
 Alors dans un contexte très dégradé, **l’usage d’une assistance respiratoire non conventionnelle pourrait devenir une option dégradée permettant le passage des phases très aigues, voire limiter la morbi-mortalité.**
 
-**Les premiers prototypes devraient être prêts vers le début de la semaine prochaine**, pour des tests sur poumon artificiel débutant immédiatement après. **L’utilisation en hôpital pourrait commencer vers la fin de la semaine du 30 mars.**
+**Les premiers prototypes devraient être prêts vers le début de la semaine prochaine**, pour des tests sur poumon artificiel débutant immédiatement après. **L’utilisation en hôpital pourrait commencer vers la fin du mois de mars.**
 
 Ce projet est une course contre la montre, et **nous avons besoin d’aide.**
 
 
-# Phase 1 : Emergence du groupe
+# 20 Mars // Emergence du groupe
 
 * 20 mars : première identifications de volontaires et contacts avec d'autres projets DIY
 * 21 mars : premier contact avec le CHU de grenoble et identification expert technique médical
@@ -50,7 +50,7 @@ Ce projet est une course contre la montre, et **nous avons besoin d’aide.**
 * 27 mars : réalisation d'une première application qui permettra au praticien de visualiser et configurer les paramètres de la respiration.
 * 28 mars : Présentation Proto V0.9 à < personne secrète :) >, valider tout le circuit respiratoire, et en apprendre d'avantage sur la centrale d'acquisition (afin de valider la méthodologie et s'assurer des moyens de calibration des pneumotac).
 
-# Phase 2 // 29 Mars // Dégradation du contexte actuel
+# 29 Mars // Dégradation du contexte actuel
 
 Le projet avance bien dans les différents domaines mais l'actualité nous rattrape
 
@@ -90,24 +90,23 @@ Deuxièmement, au vu du besoin de certification de l'équipement, il faut soumet
 
 Il est nécessaire que les tests cliniques soit portés par une personne morale identifié comme fabriquant de cet équipement médical.
 
-Pour pouvoir aller jusqu’au bout, cad. jusqu’au patients, **la société MinMaxMédical (MMM) s'est proposé de prendre la responsabilité du fabriquant.**
+Pour pouvoir aller jusqu’au bout, cad. jusqu’au patients, **une PME de R&D en dispositifs médicaux de la vallée grenobloise s'est proposé de prendre la responsabilité du fabriquant.**
 
-Le fabriquant MMM porte un degré de responsabilité et doit fournir un ensemble de gages concernant la procédure de conception et de production pour que le dossier puisse être évalué positivement.
+Le fabriquant porte un degré de responsabilité et doit fournir un ensemble de gages concernant la procédure de conception et de production pour que le dossier puisse être évalué positivement.
 
-MMM a une grande expérience du domaine médical et sont adéquatement structurés pour répondre aux exigences réglementaires d’un essai clinique (Ces essais seraient coordonnés par le CIC-IT). C'est donc une très bonne nouvelle.
 
-> Mixmaxmedical, en acceptant de contribuer activement au projet, permet de poursuivre un chemin qui n'est pas habituelle: on va allier un **design collaboratif et open source** avec une **production qui requiert étude clinique, standardisation de la fabrication**, selon les normes requiert par le meilleur de la santé, afin d'obtenir un produit certifié (méthodologies ARISK, QARA, 60601).
+Cette société a une grande expérience du domaine médical et sont adéquatement structurés pour répondre aux exigences réglementaires d’un essai clinique (Ces essais seraient coordonnés par le CIC-IT). C'est donc une très bonne nouvelle.
 
-MMM va réutiliser le travail effectué lors de la mise en oeuvre du prototype V1 pour fabriquer la V2 (version industrielle).
+> En acceptant de contribuer activement au projet, cette PME permet de poursuivre un chemin qui n'est pas habituelle: allier un **design collaboratif et open source** avec une **production qui requiert étude clinique, standardisation de la fabrication**, selon les normes requiert par le meilleur de la santé, afin d'obtenir un produit certifié (méthodologies ARISK, QARA, 60601).
+
+Le fabriquant va réutiliser le travail effectué lors de la mise en oeuvre du prototype V1 pour fabriquer la V2 (version industrielle).
 
 # Evolution de la stratégie Open Source du projet ?
 La stratégie de dissémination des livrables ne change pas.
 
-MMM adhère au principe de partage et de diffusion que nous nous sommes fixés, et le projet reste open source / open hardware avec les mêmes licences.
+La PME grenobloise adhère au principe de partage et de diffusion que nous nous sommes fixés, et le projet reste open source / open hardware avec les mêmes licences.
 
 > On reste sur notre ligne, notre fil conducteur; publier des livrables libres.
-
-Le projet est en mode PORTAGE par MMM (on rappelle que MinMaxMedical prend la responsabilité du fabriquant, il faut donc que la société puisse garantir que la conception et la fabrication respectent les étapes permettant "la certification").
 
 Les coordinateurs du projet sont: le CHU de Grenoble, MMM et INRIA.
 
