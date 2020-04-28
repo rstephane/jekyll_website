@@ -39,7 +39,6 @@ navbar-links:
   Community:
     - Organisation: "community/organisation"
     - Team: "community/team"
-    - Community at large: "community/communityatlarge"
     - How to contribute: "community/contribute"
     - Communication: "community/communication"
   Licences: "licences"
