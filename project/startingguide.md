@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Getting started
-bigimg: /img/entete/flickr_fablab_marcwathieu.jpg
+bigimg: /img/entete/code.jpg
 tags: [project]
 ---
 
