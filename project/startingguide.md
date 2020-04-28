@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Getting started
-subtitle: xxxxx
-bigimg: /img/Tree.png
+bigimg: /img/entete/flickr_fablab_marcwathieu.jpg
 tags: [project]
 ---
 
