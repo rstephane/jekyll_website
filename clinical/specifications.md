@@ -52,7 +52,7 @@ Tous ces composants sont disponibles dans les hôpitaux. Le dispositif est faci
    * les paramètres que la praticien doit pouvoir visualiser en temps réel sous forme graphique :
       * le volume d'air 0 à 600 mL,
       * Le débit 0 à 60 L/min
-      * La presssion Paw -20 à 100 mbar
+      * La pression Paw -20 à 100 mbar
 
    * informations temps réelles :
       * Fio2 21-100%
