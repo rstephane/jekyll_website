@@ -39,7 +39,8 @@ Recovid se différencie ([par rapport aux autres équipements existants](https:
 - Dossier réglementaire complet (ramené au contexte de développement),
 - Bien adapté au traitement COVID et complet (ex : courbes temps réel sur un écran),
 - Économique, robuste et simple à assembler avec des moyens industriels réduits,
-- Pas de vocation commerciale : après la crise, les respirateurs sont retirés du service.
+- Pas de vocation commerciale : après la crise, les respirateurs sont retirés du service,
+- Les livrables sont publiés sous licence libre.
 
 # Open Source Design
 
