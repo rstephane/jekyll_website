@@ -71,8 +71,6 @@ Au **20 avril 2020**, les équipes que forment la communauté produisent à part
 
 # Phase 4 // Recovid doit se confronter aux essais cliniques
 
-Face à la pénurie anticipée, les autorités et de nombreux acteurs se sont mobilisés. Les industriels ont augmenté leur capacité de production pour atteindre 10000 respirateurs supplémentaires. Ceux- ci pourraient cependant ne pas suffire en cas de deuxième vague échappant à tout contrôle. Il serait difficile d’augmenter plus la production étant donné les ressources limitées de composants et l’impact stratégique sur le marché (saturation du marché après la crise).
-
 **Début Mai**, des tests de validation sur poumon artificiel sont prévus au CHU de Lyon. Ces tests ouvriront la voie à des tests cliniques comparatifs sur patients COVID et au dépôt d’un dossier ANSM.
 
 > Les résultats de ces essais deviendront un marqueur important pour la suite du projet et du collectif.
