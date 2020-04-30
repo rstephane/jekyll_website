@@ -33,7 +33,7 @@ L’idée est de partir des respirateurs manuels et de produire une solution pou
 
 # Recovid Key features
 
-Recovid se différencie ( (par rapport aux autres équipements existants)[https://docs.google.com/spreadsheets/d/e/2PACX-1vTYAfldxoIiO46VAWH1NlhrwFBn9mguqS2bh1spnLEu4AVVN1cj1vaEm6vOp5Z6UnaAbUwd8dslCXdM/pubhtml#] ) par les éléments suivants :
+Recovid se différencie ([par rapport aux autres équipements existants](https://docs.google.com/spreadsheets/d/e/2PACX-1vTYAfldxoIiO46VAWH1NlhrwFBn9mguqS2bh1spnLEu4AVVN1cj1vaEm6vOp5Z6UnaAbUwd8dslCXdM/pubhtml#)) par les éléments suivants :
 
 - Circuit patient n’utilisant que des composants certifiés CE médical,
 - Dossier réglementaire complet (ramené au contexte de développement),
