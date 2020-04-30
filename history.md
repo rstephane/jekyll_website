@@ -57,7 +57,7 @@ Des approvisionnements sont réalisés, pour un montant de 150 k€, pour pouv
 
 # Phase 3 // Cinq prototypes V2 sont fabriqués
 
-Au **20 avril 2020**, les équipes que forment la communauté produisent à partir du prototype V1, une version plus évoluée, un équipement industrialisable:
+Au **20 avril 2020**, les équipes que forment la communauté produisent à partir du prototype V1, une version plus évoluée proche d'un équipement industrialisable:
 
 - Cette version est basé sur l’automatisation d’un respirateur à main (Ambubag), il n’utilise pour le circuit patient que des composants (tubes, valve PEP...) certifiés CE médical.
 - Tous ces composants sont disponibles dans les hôpitaux. Le dispositif est facile à dupliquer avec des moyens industriels limités.
