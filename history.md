@@ -26,7 +26,7 @@ D’une rencontre entre un entrepreneur de start-up, un médecin réanimateur 
 
 Grâce aux compétences multidisciplinaires que forment le groupe, un démonstrateur s’appuyant sur un concept imaginé par le MIT, est construit en moins d'une semaine.
 
-Les premiers résultats sont prometteurs et encouragent le groupe a poursuivre le travail pour construire une version ++ [plus d'infos sur notre BLOG](https://rstephane.github.io/jekyll_website/news)].
+Les premiers résultats sont prometteurs et encouragent le groupe a poursuivre le travail pour construire une version ++ [plus d'infos sur notre BLOG](https://rstephane.github.io/jekyll_website/blog)].
 
 # Phase 2 // du prototype de labo vers un équipement industrialisable
 
