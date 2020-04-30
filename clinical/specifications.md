@@ -11,7 +11,7 @@ Ce syndrome a pour caractéristique une atteinte pulmonaire bilatérale dont la 
 
 # RECOVID spécifications
 
-Recovid se différencie ((par rapport aux autres équipements existants)[https://docs.google.com/spreadsheets/d/e/2PACX-1vTYAfldxoIiO46VAWH1NlhrwFBn9mguqS2bh1spnLEu4AVVN1cj1vaEm6vOp5Z6UnaAbUwd8dslCXdM/pubhtml#]) par les éléments suivants :
+Recovid se différencie ( (par rapport aux autres équipements existants)[https://docs.google.com/spreadsheets/d/e/2PACX-1vTYAfldxoIiO46VAWH1NlhrwFBn9mguqS2bh1spnLEu4AVVN1cj1vaEm6vOp5Z6UnaAbUwd8dslCXdM/pubhtml#] ) par les éléments suivants :
 
 - Circuit patient n’utilisant que des composants certifiés CE médical,
 - Dossier réglementaire complet (ramené au contexte de développement),
@@ -32,10 +32,10 @@ Tous ces composants sont disponibles dans les hôpitaux. Le dispositif est faci
 ## Mécanique
 
    * Circuit d’air controlé : l’air en entrée du système est ambiant, par contre l’air en sortie doit être filtré au moyen d'un filtre antibactérien, antiviral de type HEPA.
-   * une PEP (pression d’expiration positive) doit être réglable entre 5 et 15 cmH2O), il s’agit de maintenir une faible pression dans les voies aériennes lors de l'exipration favorisant les échanges gazeux.
+   * une PEP (pression d’expiration positive) doit être réglable entre 5 et 15 cmH2O), il s’agit de maintenir une faible pression dans les voies aériennes lors de l'expiration favorisant les échanges gazeux.
    * une fréquence respiratoire doit être réglable entre 12 et 35 cycles/min
    * un rapport inspiration/expiration de 1:2
-   * une pause inspiratoire et expriatoire sont nécessaires afin de permettre le suivi du patient et de s'assurer de l'efficacité, l'innocuité de la ventilation invasive.
+   * une pause inspiratoire et expiratoire sont nécessaires afin de permettre le suivi du patient et de s'assurer de l'efficacité, l'innocuité de la ventilation invasive.
 
 ## Interface Utilisateur
 
@@ -46,7 +46,7 @@ Tous ces composants sont disponibles dans les hôpitaux. Le dispositif est faci
       * le PEP (pression expiratoire positive), pression qui reste dans le système de 0 à 50 mbar
       * la fréquence respiratoire (FR/min)
       * déclencher une pause inspiratoire (durée définie par une pression continue du praticien), débit réduit à 0,
-      * déclancher une pause expiratoire (durée définie par une pression continue pression continue du praticien)
+      * déclencher une pause expiratoire (durée définie par une pression continue pression continue du praticien)
       * visualisation des valeurs spécifiques à instant de la courbe
 
    * les paramètres que la praticien doit pouvoir visualiser en temps réel sous forme graphique :

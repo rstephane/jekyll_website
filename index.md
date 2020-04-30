@@ -33,23 +33,13 @@ L’idée est de partir des respirateurs manuels et de produire une solution pou
 
 # Recovid Key features
 
-Recovid se différencie ((par rapport aux autres équipements existants)[https://docs.google.com/spreadsheets/d/e/2PACX-1vTYAfldxoIiO46VAWH1NlhrwFBn9mguqS2bh1spnLEu4AVVN1cj1vaEm6vOp5Z6UnaAbUwd8dslCXdM/pubhtml#]) par les éléments suivants :
+Recovid se différencie ( (par rapport aux autres équipements existants)[https://docs.google.com/spreadsheets/d/e/2PACX-1vTYAfldxoIiO46VAWH1NlhrwFBn9mguqS2bh1spnLEu4AVVN1cj1vaEm6vOp5Z6UnaAbUwd8dslCXdM/pubhtml#] ) par les éléments suivants :
 
 - Circuit patient n’utilisant que des composants certifiés CE médical,
 - Dossier réglementaire complet (ramené au contexte de développement),
 - Bien adapté au traitement COVID et complet (ex : courbes temps réel sur un écran),
 - Économique, robuste et simple à assembler avec des moyens industriels réduits,
 - Pas de vocation commerciale : après la crise, les respirateurs sont retirés du service.
-
-# Contexte et besoin
-
-> 20 Mars 2020 : Manque de respirateurs sur la région Auvergne Rhônes-Alpes
-
-Les différents acteurs de la santé projettent un besoin proche de 50000 respirateurs alors que les autorités sanitaires ont recensés 30000 équipements disponibles sur la France.
-
-Le responsable des urgences du CHU de Grenoble, confirme cet état de fait; il doit faire face à l’afflux de malades de plus en plus nombreux, dans des états sévères qui requiert l'utilisation de respirateurs.  Au vu de l'augmentation de patients en état critiques, il manquera des ventilateurs/respirateurs d'ici quelques semaines.
-
-**Il faut réunir toutes les forces en présence si nous voulons réussir: Laboratoires de recherche, Fablab/Makers, Industriels, PMEs, Artisans, et les citoyens qui ont eux aussi des compétences et un savoir faire à apporter.**
 
 # Open Source Design
 
