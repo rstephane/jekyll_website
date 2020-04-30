@@ -43,7 +43,7 @@ L'équipe rencontre deux problèmes de taille;
 
 **Le collectif est confronté au besoin d’un « fabricant » au sens des Dispositifs Médicaux.**
 
-Une PME grenobloise décide d’investir sur fond propres et développe avec ses employés une version répondant aux exigences du CHU et utilisable sur des patients COVID dans le cadre d’essais cliniques [plus d'infos sur notre [BLOG](https://rstephane.github.io/jekyll_website/29-03-2020-important-notice-nouvelle-strategie-de-production/)]
+Une PME grenobloise décide d’investir sur fond propres et développe avec ses employés une version répondant aux exigences du CHU et utilisable sur des patients COVID dans le cadre d’essais cliniques [plus d'infos sur notre BLOG](https://rstephane.github.io/jekyll_website/29-03-2020-important-notice-nouvelle-strategie-de-production/)]
 
 Un dossier réglementaire susceptible d’obtenir l’agrément de l’ANSM dans un cadre dérogatoire est monté, en coordination avec le CIC-IT, par des spécialistes de l’assurance qualité et de l’analyse de risque (ARISK, QARA, 60601).
 
