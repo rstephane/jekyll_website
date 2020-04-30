@@ -28,7 +28,7 @@ Grâce aux compétences multidisciplinaires que forment le groupe, un démonstr
 
 Les premiers résultats sont prometteurs et encouragent le groupe a poursuivre le travail pour construire une version ++ [plus d'infos sur notre [BLOG](https://rstephane.github.io/jekyll_website/news)].
 
-# Phase 2 // du prototypage aux essais cliniques
+# Phase 2 // du prototype de labo vers un équipement industrialisable
 
 > Le **26 mars 2020**, l'évolution de l’épidémie de Coronavirus (CoVid-19) est inquiétante.
 
@@ -51,11 +51,11 @@ L'Open source et l'Open Hardware permet de faciliter l'accès et la fabrication 
 
 > En acceptant de contribuer activement au projet, cette PME permet de poursuivre un chemin qui n'est pas habituelle: allier un **design collaboratif et open source** avec une **production qui requiert étude clinique, standardisation de la fabrication**, selon les normes requiert par le meilleur de la santé, afin d'obtenir un produit certifié (méthodologies ARISK, QARA, 60601).
 
-# Budget
+### Budget
 
 Des approvisionnements sont réalisés, pour un montant de 150 k€, pour pouvoir produire 100 respirateurs pour le CHU-GA: 1 équipement = 1000 euros environ.
 
-# Phase 3 // le groupe produit 5 prototypes V2 !
+# Phase 3 // Cinq prototypes V2 sont fabriqués
 
 Au **20 avril 2020**, les équipes que forment la communauté produisent à partir du prototype V1, une version plus évoluée, un équipement industrialisable:
 
@@ -69,15 +69,15 @@ Au **20 avril 2020**, les équipes que forment la communauté produisent à part
 
 </div>
 
-# Phase 4 // du prototype V2 vers des essais cliniques
+# Phase 4 // Recovid doit se confronter aux essais cliniques
 
 Face à la pénurie anticipée, les autorités et de nombreux acteurs se sont mobilisés. Les industriels ont augmenté leur capacité de production pour atteindre 10000 respirateurs supplémentaires. Ceux- ci pourraient cependant ne pas suffire en cas de deuxième vague échappant à tout contrôle. Il serait difficile d’augmenter plus la production étant donné les ressources limitées de composants et l’impact stratégique sur le marché (saturation du marché après la crise).
 
 **Début Mai**, des tests de validation sur poumon artificiel sont prévus au CHU de Lyon. Ces tests ouvriront la voie à des tests cliniques comparatifs sur patients COVID et au dépôt d’un dossier ANSM.
 
-> Les résultats de ces essais deviendront un marqueur important pour la suite du projet et du collectif. 
+> Les résultats de ces essais deviendront un marqueur important pour la suite du projet et du collectif.
 
-# Phase 5 // Faire perdurer le projet au delà des essais cliniques
+# Phase 5 // Faire perdurer le projet au delà des résultats cliniques
 
 La poursuite du projet sur une base bénévole et sur fonds propres deviendra impossible sur la durée. Les partenaires ne peuvent investir plus sans mettre en péril leurs trésoreries et les bénévoles doivent reprendre leur activité professionnelle. Le collectif Recovid est donc aujourd’hui à la recherche :
 

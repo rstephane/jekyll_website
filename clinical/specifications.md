@@ -5,11 +5,23 @@ bigimg: /img/entete/installation-prototype-V0.jpeg
 tags: [specifications]
 ---
 
-> MAJ le 26 avril 2020
-
 Dans le cas du Corona-virus, l’assistance doit répondre à une situation particulière permettant la ventilation de patients atteints de la forme la plus sévère de l'insuffisance respiratoire aigüe à savoir le syndrome de détresse respiratoire aigü (SDRA).
 
 Ce syndrome a pour caractéristique une atteinte pulmonaire bilatérale dont la gravité est définie par la définition de Berlin. Elle se caractérise par une altération de la compliance pulmonaire le plus souvent en lien avec un oedème alvéolo-capillaire lié à une atteinte de la membrane mais aussi une réaction inflammatoire.
+
+# RECOVID spécifications
+
+Recovid se différencie ((par rapport aux autres équipements existants)[https://docs.google.com/spreadsheets/d/e/2PACX-1vTYAfldxoIiO46VAWH1NlhrwFBn9mguqS2bh1spnLEu4AVVN1cj1vaEm6vOp5Z6UnaAbUwd8dslCXdM/pubhtml#]) par les éléments suivants :
+
+- Circuit patient n’utilisant que des composants certifiés CE médical,
+- Dossier réglementaire complet (ramené au contexte de développement),
+- Bien adapté au traitement COVID et complet (ex : courbes temps réel sur un écran),
+- Économique, robuste et simple à assembler avec des moyens industriels réduits,
+- Pas de vocation commerciale : après la crise, les respirateurs sont retirés du service.
+
+RECOVID est basé sur l’automatisation d’un respirateur à main (Ambubag), il n’utilise pour le circuit patient que des composants (tubes, valve PEP...) certifiés CE médical.
+
+Tous ces composants sont disponibles dans les hôpitaux. Le dispositif est facile à dupliquer avec des moyens industriels limités.
 
 ## Médical
 

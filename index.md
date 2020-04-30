@@ -31,17 +31,23 @@ L’idée est de partir des respirateurs manuels et de produire une solution pou
 
 **Le service de réanimation du CHU Grenoble nous aide à valider le prototype, et, une entreprise de la région Auvergne-Rhones-Alpes contribue au projet en concevant une version certifié et produire une première série pour le CHU.**
 
+# Recovid Key features
+
+Recovid se différencie ((par rapport aux autres équipements existants)[https://docs.google.com/spreadsheets/d/e/2PACX-1vTYAfldxoIiO46VAWH1NlhrwFBn9mguqS2bh1spnLEu4AVVN1cj1vaEm6vOp5Z6UnaAbUwd8dslCXdM/pubhtml#]) par les éléments suivants :
+
+- Circuit patient n’utilisant que des composants certifiés CE médical,
+- Dossier réglementaire complet (ramené au contexte de développement),
+- Bien adapté au traitement COVID et complet (ex : courbes temps réel sur un écran),
+- Économique, robuste et simple à assembler avec des moyens industriels réduits,
+- Pas de vocation commerciale : après la crise, les respirateurs sont retirés du service.
+
 # Contexte et besoin
 
 > 20 Mars 2020 : Manque de respirateurs sur la région Auvergne Rhônes-Alpes
 
 Les différents acteurs de la santé projettent un besoin proche de 50000 respirateurs alors que les autorités sanitaires ont recensés 30000 équipements disponibles sur la France.
 
-Le responsable des urgences du CHU de Grenoble, confirme cet état de fait; il doit faire face à l’afflux de malades de plus en plus nombreux, dans des états sévères qui requiert l'utilisation de respirateurs.  
-
-Au vu de l'augmentation de patients en état critiques, il manquera des ventilateurs/respirateurs d'ici 3 semaines (il faudra doubler le nombre de lit disponibles d'ici les prochains jours', passer d’environ 100 lits à 200 lits sous 10 jours pour le CHU de Grenoble).
-
-Le responsable des Urgences souhaite une production de 100 respirateurs (dans le cadre d’un essai clinique) à mettre à disposition du CHU progressivement dans les prochaines semaines.
+Le responsable des urgences du CHU de Grenoble, confirme cet état de fait; il doit faire face à l’afflux de malades de plus en plus nombreux, dans des états sévères qui requiert l'utilisation de respirateurs.  Au vu de l'augmentation de patients en état critiques, il manquera des ventilateurs/respirateurs d'ici quelques semaines.
 
 **Il faut réunir toutes les forces en présence si nous voulons réussir: Laboratoires de recherche, Fablab/Makers, Industriels, PMEs, Artisans, et les citoyens qui ont eux aussi des compétences et un savoir faire à apporter.**
 
@@ -52,13 +58,6 @@ Le responsable des Urgences souhaite une production de 100 respirateurs (dans le
 L'Open source et l'Open Hardware permet de faciliter l'accès et la fabrication des composants utiles pour fabriquer des respirateurs.  En donnant les codes sources et les schémas aux fablabs et Maker de France, nous serions en capacité de refaire une centaine de pièces.
 
 De même, les licences choisies (MIT et CC) permettent à une entreprise de la région Auvergne-Rhones-Alpes de nous aider en concevant une version certifié (V2) et produire une première série.
-
-Le fabriquant <unknown>, en acceptant de contribuer activement au projet, permet de poursuivre un chemin qui n'est pas habituelle:
-
-* Allier un **design collaboratif et open source** avec une **production qui requiert étude clinique, standardisation de la fabrication**, selon les normes requiert par le meilleur de la santé,
-* Obtenir un produit certifié (méthodologies ARISK, QARA, 60601).
-
-L'entreprise adhère au principe de partage et de diffusion que nous nous sommes fixés, et le projet reste open source / open hardware avec les mêmes licences.
 
 # Key Research Question
 
