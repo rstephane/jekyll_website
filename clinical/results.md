@@ -1,59 +1,93 @@
 ---
 layout: page
-title: Spécifications
+title: Cmlinical Key Results
 bigimg: /img/entete/installation-prototype-V0.jpeg
 tags: [specifications]
 ---
 
 > MAJ le 26 avril 2020
 
-Dans le cas du Corona-virus, l’assistance doit répondre à une situation particulière permettant la ventilation de patients atteints de la forme la plus sévère de l'insuffisance respiratoire aigüe à savoir le syndrome de détresse respiratoire aigü (SDRA).
+Attributes are:
 
-Ce syndrome a pour caractéristique une atteinte pulmonaire bilatérale dont la gravité est définie par la définition de Berlin. Elle se caractérise par une altération de la compliance pulmonaire le plus souvent en lien avec un oedème alvéolo-capillaire lié à une atteinte de la membrane mais aussi une réaction inflammatoire.
+    Openness
+    Buildability
+    Community Support
+    Functionally Tested
+    Reliability Tested
+    COVID-19 Suitability
+    Clinician Friendly
 
-## Médical
+Openness
 
-  * Ventilation mécanique controlée (le patient ne contrôle plus sa respiration, la machine génère la ventilation dans son entièreté), il s’agit d’un asservissement du flux d’air en inspiration et expiration en respectant des contraintes stricts (pression/volume d’air, fréquence de la respiration, pause respiratoire, pression expiratoire positive, seuil plateau)
-   * Le volume courant d’air qui doit être insufflé est de 6 ml/kg de poids théorique déterminé par la taille et le sexe. (Le poids réel n'est en aucan cas à considérer)
-   * La pression de crête à 50 cmH20 - 60 cmH20 (peut passer à 70 ou 80)
+    Not Open
+    Declared to be open, but no plans published
+    Have a repo with at least some plans
+    Has a clear license strategy, regular updates to plans
+    Fully open, everything document, responsive community, clear license
 
-## Mécanique
+Buildability
 
-   * Circuit d’air controlé : l’air en entrée du système est ambiant, par contre l’air en sortie doit être filtré au moyen d'un filtre antibactérien, antiviral de type HEPA.
-   * une PEP (pression d’expiration positive) doit être réglable entre 5 et 15 cmH2O), il s’agit de maintenir une faible pression dans les voies aériennes lors de l'exipration favorisant les échanges gazeux.
-   * une fréquence respiratoire doit être réglable entre 12 et 35 cycles/min
-   * un rapport inspiration/expiration de 1:2
-   * une pause inspiratoire et expriatoire sont nécessaires afin de permettre le suivi du patient et de s'assurer de l'efficacité, l'innocuité de la ventilation invasive.
+    Unbuildable
+    Documents available but they require guesswork
+    All software and hardware transparent and documented. Some manufacturing instructions, such as a build video
+    Complete documentations suggested reproducibility
+    Has been successfully reproduced by another team purely from documentation
 
-## Interface Utilisateur
+Community Support
 
-   * les paramètres que la praticien doit pouvoir régler :
-      * le taux de FiO2
-      * le volume courant (Vt)
-      * La débit inspiratoire exprimé en L./min
-      * le PEP (pression expiratoire positive), pression qui reste dans le système de 0 à 50 mbar
-      * la fréquence respiratoire (FR/min)
-      * déclencher une pause inspiratoire (durée définie par une pression continue du praticien), débit réduit à 0,
-      * déclancher une pause expiratoire (durée définie par une pression continue pression continue du praticien)
-      * visualisation des valeurs spécifiques à instant de la courbe
+    Inactive; not point of contact
+    Point of contact, but unresponsive
+    Responsive leader or manager, more than one volunteer
+    Active community, weekly activity and reports, git repo or other shared documents
+    Large, active, open community
 
-   * les paramètres que la praticien doit pouvoir visualiser en temps réel sous forme graphique :
-      * le volume d'air 0 à 600 mL,
-      * Le débit 0 à 60 L/min
-      * La presssion Paw -20 à 100 mbar
+Functional Testing
 
-   * informations temps réelles :
-      * Fio2 21-100%
-      * VT 300-1000ml
-      * FR 10-35 bpm
-      * PEP 0-15cmH2O
-      * Débit max 30-90L/min
+      0.  In Design Phase, Not listed/tested
 
-   * les alarmes en fonction de la pression d'insufflation :
-      * dépassement d'un seuil d'insufflation maximum (ex : le flux d'air est obstrué)
-      * passage sous le seuil d'insufflation minimum (ex : le flux d'air est laissé à l'air libre, patient débranché)
-   * alarme liée au niveau de batterie de l'appareil
+    Makes a bag move
+    Tested with a test lung
+    Tested for pressure and volume limits, with breath rate control
+    Tested for alarms, multiple modes, O2 mixing
+    All test green (if asserted as a feature)
 
-Enfin, ...
+Reliability Testing
 
-## Réplicabilité
+      0.   Not Listed
+
+    Operates for one hour
+    Operates for 12 hours
+    Operates for 12 hours passing all functional test acceptably (low exception rate)
+    Independent team operates for 48 hours passing all functional tests, data logs reviewed
+    Mean time between failure data starting to become meaningful
+
+COVID-19 Suitability  
+
+      0.  In design phase/Not listed
+
+    Operates with supplemental oxygen
+    Pressure or volume control or both
+    PEEP
+    Sophisticated alarm capability and stabilizability of all patient contact points
+    Meets British RVMSv1 standards
+
+Clinician Friendly
+
+      0.   Unknown controls
+
+    No controls
+    Breath rate and volume control, standard ports
+    Breath rate, volume and pressure control easy to set, standard ports, clear external labeling graphically and in the language of choice
+    Alarms easy to set and understand; wholesale replication of an existing UI or conformance to a TBD UI standard
+    Data logging, informative, easy control, battery backup for moving. No training needed in normal operation due to similarity with familiar designs.
+
+Manufacturability (1000s)
+
+Note: This is usually zero until Buildability of (1) unit (separate column) reaches 4.
+
+     0. Insufficient plans to duplicate a single unit.
+    1. Bill of Materials (BOM) clear.
+    2. 2d parts, 3d parts, code, all clearly documented.
+    3. Electrical schematics and air circuit schematics clear. PCBs if any present and documented. Wiring if required fully documented.
+    4. Basic instructions and special instructions present. Video instructions helpful. Documented in language of choice, preferable more than one. Basic description of “smoke tests” and simple quality assurance present.
+    5. Either evidence of BOM availability in units of 1000, or supply-chain flexibility of parts suggesting same. Documentation for handling supply-chain disruption present if minimal. Plans include manufacturing issues for non-expert workers. Detailed quality assurance plans present.
