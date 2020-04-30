@@ -26,7 +26,7 @@ D’une rencontre entre un entrepreneur de start-up, un médecin réanimateur 
 
 Grâce aux compétences multidisciplinaires que forment le groupe, un démonstrateur s’appuyant sur un concept imaginé par le MIT, est construit en moins d'une semaine.
 
-Les premiers résultats sont prometteurs et encouragent le groupe a poursuivre le travail pour construire une version ++ [plus d'infos sur notre BLOG](https://rstephane.github.io/jekyll_website/blog)].
+Les premiers résultats sont prometteurs et encouragent le groupe a poursuivre le travail pour construire une version ++ [plus d'infos sur notre BLOG](https://rstephane.github.io/jekyll_website/blog).
 
 # Phase 2 // du prototype de labo vers un équipement industrialisable
 
@@ -43,7 +43,7 @@ L'équipe rencontre deux problèmes de taille;
 
 **Le collectif est confronté au besoin d’un « fabricant » au sens des Dispositifs Médicaux.**
 
-Une PME grenobloise décide d’investir sur fond propres et développe avec ses employés une version répondant aux exigences du CHU et utilisable sur des patients COVID dans le cadre d’essais cliniques [plus d'infos sur notre BLOG](https://rstephane.github.io/jekyll_website/29-03-2020-important-notice-nouvelle-strategie-de-production/)]
+Une PME grenobloise décide d’investir sur fond propres et développe avec ses employés une version répondant aux exigences du CHU et utilisable sur des patients COVID dans le cadre d’essais cliniques [plus d'infos sur notre BLOG](https://rstephane.github.io/jekyll_website/29-03-2020-important-notice-nouvelle-strategie-de-production/).
 
 Un dossier réglementaire susceptible d’obtenir l’agrément de l’ANSM dans un cadre dérogatoire est monté, en coordination avec le CIC-IT, par des spécialistes de l’assurance qualité et de l’analyse de risque (ARISK, QARA, 60601).
 
